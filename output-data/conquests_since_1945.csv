@@ -1,0 +1,43 @@
+year,country_gaining,iso3c_gaining,country_losing,iso3c_losing,type,pop,area
+1947,Russia,RUS,Romania,ROU,"Conquest
+(armed force)",3500000,49987.00
+1949,Egypt,EGY,Israel,ISR,"Conquest
+(armed force)",405000,258.00
+1949,Jordan,JOR,Israel,ISR,"Conquest
+(armed force)",400000,5607.00
+1949,India,IND,Pakistan,PAK,"Conquest
+(armed force)",2700000,139860.00
+1949,Pakistan,PAK,India,IND,"Conquest
+(armed force)",1320000,32024.00
+1961,Benin,BEN,Portugal,PRT,"Conquest
+(armed force)",12,2.00
+1961,India,IND,Portugal,PRT,"Conquest
+(armed force)",649660,4193.00
+1967,Israel,ISR,Egypt,EGY,"Conquest
+(armed force)",418800,53242.00
+1967,Israel,ISR,Syria,SYR,"Conquest
+(armed force)",60000,1710.00
+1967,Israel,ISR,Jordan,JOR,"Conquest
+(armed force)",674500,5878.00
+1971,Iran,IRN,United Arab Emirates,ARE,"Conquest
+(armed force)",100,1.00
+1971,India,IND,Pakistan,PAK,"Conquest
+(armed force)",5000000,13361.00
+1971,Pakistan,PAK,India,IND,"Conquest
+(armed force)",75600,315.00
+1973,Libya,LBY,Chad,TCD,"Conquest
+(armed force)",78000,78000.00
+1973,Israel,ISR,Syria,SYR,"Conquest
+(armed force)",15000,780.00
+1974,Turkey,TUR,Cyprus,CYP,"Conquest
+(armed force)",250000,3640.00
+1975,Vietnam,VNM,Republic of Vietnam,NA,"Conquest
+(armed force)",18300000,174481.00
+1976,Indonesia,IDN,Portugal,PRT,"Conquest
+(armed force)",610541,14984.00
+1991,Botswana,BWA,NA,NA,"Conquest
+(armed force)",0,5.00
+2000,Egypt,EGY,Sudan,SDN,"Conquest
+(armed force)",5000,20580.00
+2014,Russia,RUS,Ukraine,UKR,"Conquest
+(armed force)",2400000,27000.00

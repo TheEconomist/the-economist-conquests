@@ -1,0 +1,1685 @@
+year,country_gaining,iso3c_gaining,country_losing,iso3c_losing,type,pop,area
+1816,Argentina,ARG,Spain,ESP,"Unknown process
+(often independences)",1970000,2093164.00
+1816,United Kingdom,GBR,Nepal,NPL,"Cession
+(part yielded to other entity)",.,1.00
+1816,United Kingdom,GBR,NA,NA,"Cession
+(part yielded to other entity)",.,179.00
+1817,France,FRA,United Kingdom,GBR,"Cession
+(part yielded to other entity)",100000,7819.00
+1817,Russia,RUS,NA,NA,"Conquest
+(armed force)",.,650.00
+1818,United States,USA,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,84240.00
+1818,Chile,CHL,Spain,ESP,"Unknown process
+(often independences)",1656300,464568.00
+1818,United Kingdom,GBR,United States,USA,"Cession
+(part yielded to other entity)",.,41600.00
+1818,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",.,421200.00
+1818,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,16.00
+1818,Turkey,TUR,NA,NA,"Cession
+(part yielded to other entity)",.,388500.00
+1819,United States,USA,Spain,ESP,"Cession
+(part yielded to other entity)",54477,186488.00
+1819,Colombia,COL,Spain,ESP,"Unknown process
+(often independences)",1400000,660760.00
+1819,France,FRA,Madagascar,MDG,"Annexation
+(unilateral)",.,1.00
+1821,Dominican Republic,DOM,Spain,ESP,"Unknown process
+(often independences)",89000,48734.00
+1821,Mexico,MEX,Spain,ESP,"Unknown process
+(often independences)",7000000,1426757.00
+1821,Colombia,COL,Spain,ESP,"Conquest
+(armed force)",800000,1082207.00
+1821,Peru,PER,Spain,ESP,"Unknown process
+(often independences)",1929300,1559891.00
+1821,Portugal,PRT,Spain,ESP,"Cession
+(part yielded to other entity)",70000,269810.00
+1822,Colombia,COL,Spain,ESP,"Conquest
+(armed force)",600000,550685.00
+1822,Turkey,TUR,NA,NA,"Conquest
+(armed force)",100000,229471.00
+1824,Brazil,BRA,Portugal,PRT,"Unknown process
+(often independences)",5306418,8259504.00
+1824,United Kingdom,GBR,NA,NA,"Cession
+(part yielded to other entity)",10000,583.00
+1824,United Kingdom,GBR,Netherlands,NLD,"Cession
+(part yielded to other entity)",77756,1658.00
+1824,Netherlands,NLD,United Kingdom,GBR,"Cession
+(part yielded to other entity)",93875,25089.00
+1825,Bolivia,BOL,Spain,ESP,"Unknown process
+(often independences)",1750000,3016000.00
+1825,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",0,48.00
+1825,Madagascar,MDG,France,FRA,"Conquest
+(armed force)",.,1.00
+1825,Tunisia,TUN,Turkey,TUR,"Secession
+(establish new indep. entities)",875000,116348.00
+1826,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,200000.00
+1826,United Kingdom,GBR,Myanmar (Burma),MMR,"Conquest
+(armed force)",1222998,169098.00
+1826,United Kingdom,GBR,NA,NA,"Cession
+(part yielded to other entity)",.,1.00
+1828,Uruguay,URY,Brazil,BRA,"Secession
+(establish new indep. entities)",70000,269810.00
+1828,Netherlands,NLD,NA,NA,"Conquest
+(armed force)",200000,412781.00
+1828,Greece,GRC,Turkey,TUR,"Secession
+(establish new indep. entities)",637700,39510.00
+1828,Russia,RUS,Iran,IRN,"Cession
+(part yielded to other entity)",.,29800.00
+1829,United Kingdom,GBR,Spain,ESP,"Cession
+(part yielded to other entity)",2300,2034.00
+1829,Russia,RUS,Turkey,TUR,"Cession
+(part yielded to other entity)",.,8580.00
+1829,Russia,RUS,NA,NA,"Conquest
+(armed force)",.,4680.00
+1830,Belgium,BEL,Netherlands,NLD,"Secession
+(establish new indep. entities)",3533538,27407.00
+1830,France,FRA,Turkey,TUR,"Conquest
+(armed force)",73200,275317.00
+1830,Russia,RUS,NA,NA,"Conquest
+(armed force)",.,9360.00
+1832,Colombia,COL,Ecuador,ECU,"Cession
+(part yielded to other entity)",276249,140976.00
+1833,United Kingdom,GBR,Argentina,ARG,"Annexation
+(unilateral)",20,11961.00
+1835,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,1.00
+1836,NA,NA,Mexico,MEX,"Secession
+(establish new indep. entities)",38000,1010472.00
+1839,Peru,PER,Bolivia,BOL,"Secession
+(establish new indep. entities)",1929300,1559891.00
+1839,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",29730,207.00
+1839,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,3016.00
+1839,Netherlands,NLD,NA,NA,"Cession
+(part yielded to other entity)",20978000,5560.00
+1839,Belgium,BEL,Netherlands,NLD,"Cession
+(part yielded to other entity)",171572,2416.00
+1839,Belgium,BEL,Netherlands,NLD,"Cession
+(part yielded to other entity)",176493,4408.00
+1840,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",31907,268676.00
+1840,Portugal,PRT,NA,NA,"Annexation
+(unilateral)",.,140000.00
+1841,France,FRA,NA,NA,"Annexation
+(unilateral)",6888,373.00
+1842,United States,USA,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,18130.00
+1842,United Kingdom,GBR,United States,USA,"Cession
+(part yielded to other entity)",.,12950.00
+1842,United Kingdom,GBR,China,CHN,"Cession
+(part yielded to other entity)",33143,75.00
+1842,France,FRA,NA,NA,"Annexation
+(unilateral)",20200,1321.00
+1843,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",1730323,126340.00
+1843,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",121068,46620.00
+1843,Netherlands,NLD,NA,NA,"Cession
+(part yielded to other entity)",.,4748.00
+1843,France,FRA,NA,NA,"Cession
+(part yielded to other entity)",.,6370.00
+1843,Spain,ESP,United Kingdom,GBR,"Cession
+(part yielded to other entity)",18000,2034.00
+1844,France,FRA,NA,NA,"Conquest
+(armed force)",9000,1595.00
+1845,United States,USA,NA,NA,"Annexation
+(unilateral)",35162,1010472.00
+1845,France,FRA,NA,NA,"Cession
+(part yielded to other entity)",.,66914.00
+1846,United States,USA,United Kingdom,GBR,"Cession
+(part yielded to other entity)",13323,739652.00
+1846,United Kingdom,GBR,United States,USA,"Cession
+(part yielded to other entity)",89000,429536.00
+1846,Austria-Hungary,NA,NA,NA,"Annexation
+(unilateral)",141202,1158.00
+1847,United Kingdom,GBR,Brunei,BRN,"Cession
+(part yielded to other entity)",1385,91.00
+1847,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",.,1.00
+1847,France,FRA,NA,NA,"Conquest
+(armed force)",.,200000.00
+1847,Tuscany,NA,NA,NA,"Annexation
+(unilateral)",168198,1127.00
+1848,United States,USA,Mexico,MEX,"Cession
+(part yielded to other entity)",295574,1370153.00
+1849,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",9153209,151536.00
+1849,United Kingdom,GBR,NA,NA,"Cession
+(part yielded to other entity)",3000000,259000.00
+1849,France,FRA,NA,NA,"Annexation
+(unilateral)",.,19500.00
+1849,Germany,DEU,NA,NA,"Unification
+(new entity from 2+ pre-existing)",65574,1173.00
+1850,United Kingdom,GBR,Denmark,DNK,"Cession
+(part yielded to other entity)",40000,40.00
+1851,Brazil,BRA,Uruguay,URY,"Cession
+(part yielded to other entity)",.,104000.00
+1851,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,8.00
+1851,Netherlands,NLD,Portugal,PRT,"Cession
+(part yielded to other entity)",.,1.00
+1852,United Kingdom,GBR,Myanmar (Burma),MMR,"Conquest
+(armed force)",870180,83657.00
+1852,NA,NA,United Kingdom,GBR,"Unknown process
+(often independences)",300000,286065.00
+1853,United States,USA,Mexico,MEX,"Cession
+(part yielded to other entity)",96000,76768.00
+1853,France,FRA,NA,NA,"Conquest
+(armed force)",60000,16112.00
+1853,Russia,RUS,NA,NA,"Annexation
+(unilateral)",.,66120.00
+1854,United Kingdom,GBR,Oman,OMN,"Cession
+(part yielded to other entity)",350000,73.00
+1854,Russia,RUS,NA,NA,"Conquest
+(armed force)",.,1820000.00
+1854,NA,NA,United Kingdom,GBR,"Unknown process
+(often independences)",245000,129153.00
+1855,Egypt,EGY,Turkey,TUR,"Secession
+(establish new indep. entities)",600000,1021081.00
+1856,Turkey,TUR,Russia,RUS,"Cession
+(part yielded to other entity)",.,12264.00
+1856,Turkey,TUR,Russia,RUS,"Cession
+(part yielded to other entity)",.,18557.00
+1857,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",400,13.00
+1858,United States,USA,NA,NA,"Annexation
+(unilateral)",0,1.00
+1858,France,FRA,NA,NA,"Annexation
+(unilateral)",0,5.00
+1858,Russia,RUS,NA,NA,"Conquest
+(armed force)",.,520.00
+1858,Russia,RUS,China,CHN,"Cession
+(part yielded to other entity)",40000,282473.00
+1859,Honduras,HND,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,33701.00
+1859,Brazil,BRA,Venezuela,VEN,"Cession
+(part yielded to other entity)",.,156000.00
+1859,Netherlands,NLD,Portugal,PRT,"Cession
+(part yielded to other entity)",1057800,15850.00
+1859,Portugal,PRT,Netherlands,NLD,"Cession
+(part yielded to other entity)",850300,18989.00
+1859,Italy,ITA,Austria-Hungary,NA,"Cession
+(part yielded to other entity)",3009505,21595.00
+1859,Russia,RUS,NA,NA,"Conquest
+(armed force)",.,12480.00
+1860,Nicaragua,NIC,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,21367.00
+1860,United Kingdom,GBR,China,CHN,"Cession
+(part yielded to other entity)",.,6.00
+1860,France,FRA,NA,NA,"Conquest
+(armed force)",.,39000.00
+1860,France,FRA,Italy,ITA,"Cession
+(part yielded to other entity)",.,14778.00
+1860,Spain,ESP,Morocco,MAR,"Annexation
+(unilateral)",.,1505.00
+1860,Italy,ITA,Modena,NA,"Unification
+(new entity from 2+ pre-existing)",598996,6031.00
+1860,Italy,ITA,Parma,NA,"Unification
+(new entity from 2+ pre-existing)",495840,6221.00
+1860,Italy,ITA,Tuscany,NA,"Unification
+(new entity from 2+ pre-existing)",1783279,22163.00
+1860,Italy,ITA,Two Sicilies,NA,"Unification
+(new entity from 2+ pre-existing)",8703130,11950.00
+1860,Italy,ITA,Vatican City,VAT,"Unification
+(new entity from 2+ pre-existing)",3124668,41445.00
+1860,Russia,RUS,China,CHN,"Cession
+(part yielded to other entity)",.,234000.00
+1861,United Kingdom,GBR,NA,NA,"Cession
+(part yielded to other entity)",115000,12950.00
+1861,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,1.00
+1861,France,FRA,Monaco,MCO,"Annexation
+(unilateral)",.,2.00
+1861,Spain,ESP,Dominican Republic,DOM,"Annexation
+(unilateral)",200000,48734.00
+1862,United Kingdom,GBR,Bahrain,BHR,"Annexation
+(unilateral)",.,598.00
+1862,France,FRA,NA,NA,"Cession
+(part yielded to other entity)",22730,6000.00
+1862,France,FRA,NA,NA,"Cession
+(part yielded to other entity)",502116,22380.00
+1863,United States,USA,Honduras,HND,"Annexation
+(unilateral)",.,5.00
+1863,France,FRA,NA,NA,"Cession
+(part yielded to other entity)",20000,520.00
+1863,France,FRA,Cambodia,KHM,"Annexation
+(unilateral)",1000000,83861.00
+1864,France,FRA,NA,NA,"Annexation
+(unilateral)",15000,1958.00
+1864,Germany,DEU,Denmark,DNK,"Cession
+(part yielded to other entity)",50147,1046.00
+1864,Germany,DEU,Denmark,DNK,"Cession
+(part yielded to other entity)",409907,9194.00
+1864,Austria-Hungary,NA,Denmark,DNK,"Cession
+(part yielded to other entity)",544419,8534.00
+1864,Greece,GRC,United Kingdom,GBR,"Cession
+(part yielded to other entity)",234123,2608.00
+1864,Russia,RUS,NA,NA,"Conquest
+(armed force)",.,36400.00
+1865,Dominican Republic,DOM,Spain,ESP,"Unknown process
+(often independences)",200000,48734.00
+1865,United Kingdom,GBR,Bhutan,BTN,"Annexation
+(unilateral)",.,8889.00
+1866,Chile,CHL,Bolivia,BOL,"Cession
+(part yielded to other entity)",.,42896.00
+1866,Germany,DEU,Austria-Hungary,NA,"Conquest
+(armed force)",544419,8537.00
+1866,Germany,DEU,NA,NA,"Annexation
+(unilateral)",457571,4709.00
+1866,Germany,DEU,NA,NA,"Annexation
+(unilateral)",87518,101.00
+1866,Germany,DEU,Hanover,NA,"Conquest
+(armed force)",1923492,38474.00
+1866,Germany,DEU,Hesse Electoral,NA,"Annexation
+(unilateral)",745063,9586.00
+1866,Italy,ITA,Austria-Hungary,NA,"Cession
+(part yielded to other entity)",2458989,25145.00
+1867,United States,USA,NA,NA,"Annexation
+(unilateral)",0,5.00
+1867,United States,USA,Russia,RUS,"Cession
+(part yielded to other entity)",54000,1518775.00
+1867,Brazil,BRA,Bolivia,BOL,"Cession
+(part yielded to other entity)",.,162500.00
+1867,Luxembourg,LUX,Netherlands,NLD,"Secession
+(establish new indep. entities)",203851,2567.00
+1867,France,FRA,NA,NA,"Conquest
+(armed force)",477000,33864.00
+1867,Germany,DEU,NA,NA,"Unification
+(new entity from 2+ pre-existing)",295242,6291.00
+1867,Germany,DEU,NA,NA,"Unification
+(new entity from 2+ pre-existing)",98575,192.00
+1867,Germany,DEU,NA,NA,"Unification
+(new entity from 2+ pre-existing)",49482,329.00
+1867,Germany,DEU,NA,NA,"Unification
+(new entity from 2+ pre-existing)",99060,2725.00
+1867,Germany,DEU,NA,NA,"Unification
+(new entity from 2+ pre-existing)",229941,352.00
+1867,Germany,DEU,NA,NA,"Unification
+(new entity from 2+ pre-existing)",139287,1577.00
+1867,Germany,DEU,NA,NA,"Unification
+(new entity from 2+ pre-existing)",58604,1121.00
+1867,Germany,DEU,NA,NA,"Unification
+(new entity from 2+ pre-existing)",181824,2383.00
+1867,Germany,DEU,NA,NA,"Unification
+(new entity from 2+ pre-existing)",742907,9407.00
+1867,Germany,DEU,NA,NA,"Unification
+(new entity from 2+ pre-existing)",282400,3691.00
+1867,Germany,DEU,Saxony,NA,"Unification
+(new entity from 2+ pre-existing)",2337192,14939.00
+1867,Germany,DEU,Hesse Grand Ducal,NA,"Unification
+(new entity from 2+ pre-existing)",853315,8386.00
+1867,Germany,DEU,Mecklenburg Schwerin,NA,"Unification
+(new entity from 2+ pre-existing)",552612,13442.00
+1867,Thailand,THA,France,FRA,"Cession
+(part yielded to other entity)",.,35641.00
+1868,United Kingdom,GBR,Lesotho,LSO,"Annexation
+(unilateral)",127700,21885.00
+1868,Russia,RUS,Tajikistan,TJK,"Conquest
+(armed force)",2000000,156000.00
+1869,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,1645.00
+1869,Italy,ITA,NA,NA,"Cession
+(part yielded to other entity)",1193,629.00
+1870,Brazil,BRA,Paraguay,PRY,"Cession
+(part yielded to other entity)",.,65000.00
+1874,Argentina,ARG,Paraguay,PRY,"Cession
+(part yielded to other entity)",.,117000.00
+1870,France,FRA,NA,NA,"Conquest
+(armed force)",.,400000.00
+1870,Italy,ITA,Vatican City,VAT,"Unification
+(new entity from 2+ pre-existing)",723161,11790.00
+1871,United Kingdom,GBR,Netherlands,NLD,"Cession
+(part yielded to other entity)",120000,27534.00
+1871,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",25477,46102.00
+1871,Germany,DEU,France,FRA,"Cession
+(part yielded to other entity)",1549459,14452.00
+1871,Germany,DEU,Baden,NA,"Unification
+(new entity from 2+ pre-existing)",1434970,15311.00
+1871,Germany,DEU,Wuerttemburg,NA,"Unification
+(new entity from 2+ pre-existing)",1778479,50526.00
+1871,Germany,DEU,Bavaria,NA,"Unification
+(new entity from 2+ pre-existing)",4824421,76073.00
+1871,Russia,RUS,China,CHN,"Annexation
+(unilateral)",.,42900.00
+1871,Turkey,TUR,NA,NA,"Conquest
+(armed force)",.,104338.00
+1872,United States,USA,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,.
+1872,Turkey,TUR,Qatar,QAT,"Annexation
+(unilateral)",22500,11000.00
+1872,Turkey,TUR,Yemen Arab Republic,NA,"Conquest
+(armed force)",2000000,195000.00
+1873,Russia,RUS,NA,NA,"Conquest
+(armed force)",.,228800.00
+1873,Russia,RUS,Kyrgyzstan,KGZ,"Conquest
+(armed force)",110000,92463.00
+1873,Japan,JPN,NA,NA,"Annexation
+(unilateral)",.,104.00
+1874,United Kingdom,GBR,Fiji,FJI,"Annexation
+(unilateral)",148040,18272.00
+1874,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,29068.00
+1874,France,FRA,NA,NA,"Conquest
+(armed force)",477000,33864.00
+1874,Egypt,EGY,NA,NA,"Conquest
+(armed force)",11000000,2658063.00
+1875,Portugal,PRT,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,650.00
+1875,Russia,RUS,Japan,JPN,"Cession
+(part yielded to other entity)",2358,32348.00
+1875,Turkey,TUR,NA,NA,"Conquest
+(armed force)",.,107120.00
+1875,Japan,JPN,Russia,RUS,"Cession
+(part yielded to other entity)",72,4973.00
+1876,United Kingdom,GBR,Afghanistan,AFG,"Annexation
+(unilateral)",27270,.
+1876,Russia,RUS,Turkmenistan,TKM,"Conquest
+(armed force)",.,728000.00
+1877,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",800,969.00
+1877,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",815000,285363.00
+1877,United Kingdom,GBR,NA,NA,"Cession
+(part yielded to other entity)",.,6.00
+1878,Paraguay,PRY,Argentina,ARG,"Cession
+(part yielded to other entity)",10,1.00
+1878,United Kingdom,GBR,Turkey,TUR,"Cession
+(part yielded to other entity)",186084,9251.00
+1878,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",.,1.00
+1878,Austria-Hungary,NA,Turkey,TUR,"Mandated territory
+(by League of Nations or UN)",862202,42520.00
+1878,Austria-Hungary,NA,Turkey,TUR,"Mandated territory
+(by League of Nations or UN)",349970,20280.00
+1878,Austria-Hungary,NA,Turkey,TUR,"Cession
+(part yielded to other entity)",2000,35.00
+1878,Yugoslavia,NA,Turkey,TUR,"Secession
+(establish new indep. entities)",1352522,42994.00
+1878,Yugoslavia,NA,Turkey,TUR,"Cession
+(part yielded to other entity)",222732,11097.00
+1878,Montenegro,MNE,Turkey,TUR,"Secession
+(establish new indep. entities)",195585,4584.00
+1878,Montenegro,MNE,Turkey,TUR,"Cession
+(part yielded to other entity)",100000,4610.00
+1878,Romania,ROU,Turkey,TUR,"Secession
+(establish new indep. entities)",5073000,118213.00
+1878,Romania,ROU,Turkey,TUR,"Cession
+(part yielded to other entity)",357000,15372.00
+1878,Russia,RUS,Romania,ROU,"Cession
+(part yielded to other entity)",127000,9274.00
+1878,Russia,RUS,Turkey,TUR,"Cession
+(part yielded to other entity)",236600,25769.00
+1879,Argentina,ARG,NA,NA,"Conquest
+(armed force)",24000,669972.00
+1879,Egypt,EGY,Ethiopia,ETH,"Conquest
+(armed force)",325000,468000.00
+1880,France,FRA,NA,NA,"Annexation
+(unilateral)",793,209.00
+1880,France,FRA,NA,NA,"Cession
+(part yielded to other entity)",5000000,540000.00
+1880,Montenegro,MNE,Turkey,TUR,"Cession
+(part yielded to other entity)",.,520.00
+1880,NA,NA,United Kingdom,GBR,"Unknown process
+(often independences)",815000,285363.00
+1880,Turkey,TUR,Montenegro,MNE,"Cession
+(part yielded to other entity)",200,1.00
+1881,Chile,CHL,Argentina,ARG,"Cession
+(part yielded to other entity)",.,1.00
+1881,Argentina,ARG,Chile,CHL,"Cession
+(part yielded to other entity)",10,1.00
+1881,France,FRA,NA,NA,"Annexation
+(unilateral)",5469,1000.00
+1881,France,FRA,Tunisia,TUN,"Conquest
+(armed force)",2100000,116348.00
+1881,Greece,GRC,Turkey,TUR,"Cession
+(part yielded to other entity)",293000,13364.00
+1881,Russia,RUS,NA,NA,"Annexation
+(unilateral)",.,4680.00
+1881,China,CHN,Russia,RUS,"Cession
+(part yielded to other entity)",.,42900.00
+1882,United Kingdom,GBR,Egypt,EGY,"Conquest
+(armed force)",6806381,1021081.00
+1883,Chile,CHL,Peru,PER,"Conquest
+(armed force)",20000,51480.00
+1883,France,FRA,NA,NA,"Annexation
+(unilateral)",.,500.00
+1883,France,FRA,NA,NA,"Annexation
+(unilateral)",9000000,90000.00
+1884,Chile,CHL,Bolivia,BOL,"Conquest
+(armed force)",14000,50215.00
+1884,United Kingdom,GBR,NA,NA,"Cession
+(part yielded to other entity)",.,19500.00
+1884,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,3250.00
+1884,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",137500,234654.00
+1884,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",153800,192000.00
+1884,France,FRA,NA,NA,"Conquest
+(armed force)",180000,16000.00
+1884,Germany,DEU,NA,NA,"Conquest
+(armed force)",250000,822907.00
+1884,Germany,DEU,NA,NA,"Conquest
+(armed force)",500000,41440.00
+1884,Germany,DEU,NA,NA,"Conquest
+(armed force)",297000,240870.00
+1884,Germany,DEU,NA,NA,"Conquest
+(armed force)",2600000,336700.00
+1884,Ethiopia,ETH,Egypt,EGY,"Cession
+(part yielded to other entity)",.,468000.00
+1884,Sudan,SDN,United Kingdom,GBR,"Unknown process
+(often independences)",11000000,2658063.00
+1885,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",44135,440300.00
+1885,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",24000000,898000.00
+1885,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",44135,133722.00
+1885,France,FRA,Madagascar,MDG,"Cession
+(part yielded to other entity)",12237,250.00
+1885,France,FRA,NA,NA,"Cession
+(part yielded to other entity)",.,200742.00
+1885,Spain,ESP,NA,NA,"Conquest
+(armed force)",139000,26017.00
+1885,Spain,ESP,NA,NA,"Conquest
+(armed force)",100000,266000.00
+1885,Portugal,PRT,Belgium,BEL,"Cession
+(part yielded to other entity)",.,7298.00
+1885,Germany,DEU,NA,NA,"Annexation
+(unilateral)",.,54222.00
+1885,Germany,DEU,NA,NA,"Annexation
+(unilateral)",10000,388.00
+1885,Germany,DEU,NA,NA,"Annexation
+(unilateral)",80000,22000.00
+1885,Germany,DEU,NA,NA,"Annexation
+(unilateral)",.,3120.00
+1885,Italy,ITA,NA,NA,"Conquest
+(armed force)",16000,100.00
+1885,Russia,RUS,NA,NA,"Annexation
+(unilateral)",.,175000.00
+1886,United Kingdom,GBR,Myanmar (Burma),MMR,"Conquest
+(armed force)",4000000,492000.00
+1886,United Kingdom,GBR,NA,NA,"Cession
+(part yielded to other entity)",.,160000.00
+1886,France,FRA,NA,NA,"Annexation
+(unilateral)",47000,1782.00
+1886,Portugal,PRT,Zanzibar,NA,"Cession
+(part yielded to other entity)",.,6000.00
+1887,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",160000,23051.00
+1887,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,14763.00
+1887,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,52.00
+1887,United Kingdom,GBR,Maldives,MDV,"Annexation
+(unilateral)",30000,298.00
+1887,United Kingdom,GBR,Zanzibar,NA,"Cession
+(part yielded to other entity)",.,7020.00
+1887,France,FRA,NA,NA,"Annexation
+(unilateral)",.,14763.00
+1887,France,FRA,NA,NA,"Cession
+(part yielded to other entity)",.,161.00
+1888,Chile,CHL,NA,NA,"Annexation
+(unilateral)",175,119.00
+1888,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",175000,76024.00
+1888,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,155.00
+1888,United Kingdom,GBR,Brunei,BRN,"Annexation
+(unilateral)",45000,5765.00
+1888,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",8400,241.00
+1888,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",320000,48250.00
+1888,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,36192.00
+1888,France,FRA,NA,NA,"Conquest
+(armed force)",.,635821.00
+1888,France,FRA,NA,NA,"Cession
+(part yielded to other entity)",.,114.00
+1888,Germany,DEU,Zanzibar,NA,"Cession
+(part yielded to other entity)",.,52000.00
+1888,Germany,DEU,NA,NA,"Annexation
+(unilateral)",.,21.00
+1889,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",845547,119311.00
+1889,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,7334.00
+1889,United Kingdom,GBR,Zanzibar,NA,"Cession
+(part yielded to other entity)",.,10000.00
+1889,United Kingdom,GBR,NA,NA,"Cession
+(part yielded to other entity)",.,11000.00
+1889,France,FRA,NA,NA,"Annexation
+(unilateral)",2250000,322463.00
+1889,Italy,ITA,NA,NA,"Conquest
+(armed force)",194579,247300.00
+1889,Italy,ITA,Zanzibar,NA,"Conquest
+(armed force)",400000,259000.00
+1890,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,48000.00
+1890,United Kingdom,GBR,Zanzibar,NA,"Annexation
+(unilateral)",150000,2642.00
+1890,United Kingdom,GBR,Germany,DEU,"Cession
+(part yielded to other entity)",.,3120.00
+1890,United Kingdom,GBR,Eswatini,SWZ,"Annexation
+(unilateral)",55000,17363.00
+1890,United Kingdom,GBR,NA,NA,"Cession
+(part yielded to other entity)",30458,7298.00
+1890,Portugal,PRT,NA,NA,"Annexation
+(unilateral)",.,468000.00
+1890,Germany,DEU,United Kingdom,GBR,"Cession
+(part yielded to other entity)",2001,2.00
+1890,Germany,DEU,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,18200.00
+1890,Germany,DEU,NA,NA,"Annexation
+(unilateral)",.,130000.00
+1891,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",650000,624107.00
+1891,Belgium,BEL,Portugal,PRT,"Cession
+(part yielded to other entity)",.,1.00
+1891,Portugal,PRT,Belgium,BEL,"Cession
+(part yielded to other entity)",.,1.00
+1892,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",37400,956.00
+1892,United Kingdom,GBR,United Arab Emirates,ARE,"Cession
+(part yielded to other entity)",.,92100.00
+1892,Italy,ITA,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,10000.00
+1893,United Kingdom,GBR,Afghanistan,AFG,"Cession
+(part yielded to other entity)",.,104980.00
+1893,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,21645.00
+1893,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",609157,389362.00
+1893,France,FRA,NA,NA,"Conquest
+(armed force)",.,842400.00
+1893,France,FRA,Laos,LAO,"Conquest
+(armed force)",600000,255000.00
+1893,France,FRA,NA,NA,"Annexation
+(unilateral)",0,6931.00
+1893,NA,NA,United Kingdom,GBR,"Cession
+(part yielded to other entity)",55000,17363.00
+1894,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,64999.00
+1894,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",166080,10464.00
+1894,France,FRA,Belgium,BEL,"Cession
+(part yielded to other entity)",.,1.00
+1894,France,FRA,NA,NA,"Conquest
+(armed force)",600000,115760.00
+1894,France,FRA,NA,NA,"Cession
+(part yielded to other entity)",.,622984.00
+1894,Italy,ITA,NA,NA,"Conquest
+(armed force)",.,1.00
+1895,Brazil,BRA,Paraguay,PRY,"Cession
+(part yielded to other entity)",.,13000.00
+1895,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,1560.00
+1895,Russia,RUS,Afghanistan,AFG,"Cession
+(part yielded to other entity)",.,26000.00
+1895,Japan,JPN,China,CHN,"Conquest
+(armed force)",2781272,35763.00
+1896,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",317964,100000.00
+1896,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,19685.00
+1896,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",.,24484.00
+1896,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",1000000,71939.00
+1896,France,FRA,Madagascar,MDG,"Conquest
+(armed force)",3500000,590000.00
+1897,Mexico,MEX,France,FRA,"Conquest
+(armed force)",0,5.00
+1897,United Kingdom,GBR,Italy,ITA,"Cession
+(part yielded to other entity)",.,1.00
+1897,United Kingdom,GBR,Ethiopia,ETH,"Cession
+(part yielded to other entity)",.,20720.00
+1897,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,98080.00
+1897,Turkey,TUR,Greece,GRC,"Cession
+(part yielded to other entity)",200,1.00
+1898,United States,USA,NA,NA,"Annexation
+(unilateral)",.,8.00
+1898,United States,USA,NA,NA,"Annexation
+(unilateral)",109020,16638.00
+1898,United States,USA,Spain,ESP,"Cession
+(part yielded to other entity)",9000,541.00
+1898,United States,USA,Spain,ESP,"Cession
+(part yielded to other entity)",7000000,299404.00
+1898,United States,USA,Spain,ESP,"Cession
+(part yielded to other entity)",953243,8860.00
+1898,United States,USA,Spain,ESP,"Cession
+(part yielded to other entity)",1572797,114525.00
+1898,United Kingdom,GBR,China,CHN,"Cession
+(part yielded to other entity)",150000,738.00
+1898,United Kingdom,GBR,France,FRA,"Cession
+(part yielded to other entity)",.,71500.00
+1898,United Kingdom,GBR,China,CHN,"Cession
+(part yielded to other entity)",100000,953.00
+1898,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",.,71728.00
+1898,France,FRA,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,13000.00
+1898,Russia,RUS,China,CHN,"Cession
+(part yielded to other entity)",250000,3170.00
+1898,United Kingdom,GBR,Turkey,TUR,"Conquest
+(armed force)",294190,8614.00
+1899,United States,USA,Samoa,WSM,"Cession
+(part yielded to other entity)",4000,195.00
+1899,Venezuela,VEN,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,1.00
+1899,United Kingdom,GBR,Germany,DEU,"Cession
+(part yielded to other entity)",.,1.00
+1899,United Kingdom,GBR,Germany,DEU,"Cession
+(part yielded to other entity)",89000,23310.00
+1899,United Kingdom,GBR,Venezuela,VEN,"Cession
+(part yielded to other entity)",.,155400.00
+1899,United Kingdom,GBR,Kuwait,KWT,"Annexation
+(unilateral)",50000,15540.00
+1899,United Kingdom,GBR,Sudan,SDN,"Conquest
+(armed force)",2000000,2505823.00
+1899,France,FRA,NA,NA,"Conquest
+(armed force)",.,2394466.00
+1899,Germany,DEU,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,1.00
+1899,Germany,DEU,Spain,ESP,"Cession
+(part yielded to other entity)",15069,405.00
+1899,Germany,DEU,Samoa,WSM,"Cession
+(part yielded to other entity)",33000,2823.00
+1900,United Kingdom,GBR,Tonga,TON,"Annexation
+(unilateral)",26000,700.00
+1900,Russia,RUS,China,CHN,"Conquest
+(armed force)",5530000,939280.00
+1902,Cuba,CUB,United States,USA,"Unknown process
+(often independences)",1572797,114525.00
+1902,Chile,CHL,Argentina,ARG,"Cession
+(part yielded to other entity)",.,27708.00
+1902,Argentina,ARG,Chile,CHL,"Cession
+(part yielded to other entity)",.,20470.00
+1902,United Kingdom,GBR,Ethiopia,ETH,"Cession
+(part yielded to other entity)",.,292500.00
+1902,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",1000000,286065.00
+1902,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",200000,129153.00
+1903,United States,USA,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,1.00
+1903,United States,USA,Panama,PAN,"Cession
+(part yielded to other entity)",21650,1678.00
+1903,Panama,PAN,Colombia,COL,"Secession
+(establish new indep. entities)",400000,75690.00
+1903,Brazil,BRA,Bolivia,BOL,"Cession
+(part yielded to other entity)",70000,191000.00
+1903,Bolivia,BOL,Brazil,BRA,"Cession
+(part yielded to other entity)",.,3108.00
+1903,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",10000000,668220.00
+1903,France,FRA,Morocco,MAR,"Conquest
+(armed force)",62000,499870.00
+1904,Brazil,BRA,Ecuador,ECU,"Cession
+(part yielded to other entity)",.,67600.00
+1904,France,FRA,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,1.00
+1904,France,FRA,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,1.00
+1904,France,FRA,Thailand,THA,"Cession
+(part yielded to other entity)",.,20720.00
+1904,France,FRA,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,16.00
+1904,Thailand,THA,France,FRA,"Cession
+(part yielded to other entity)",.,6076.00
+1905,Norway,NOR,Sweden,SWE,"Secession
+(establish new indep. entities)",2240032,323917.00
+1905,China,CHN,Russia,RUS,"Cession
+(part yielded to other entity)",5530000,939280.00
+1905,Japan,JPN,Russia,RUS,"Cession
+(part yielded to other entity)",405680,3253.00
+1905,Japan,JPN,Russia,RUS,"Cession
+(part yielded to other entity)",9824,32348.00
+1905,Japan,JPN,NA,NA,"Conquest
+(armed force)",5713244,220891.00
+1906,United Kingdom,GBR,Turkey,TUR,"Cession
+(part yielded to other entity)",.,1.00
+1906,Belgium,BEL,United Kingdom,GBR,"Cession
+(part yielded to other entity)",250000,38850.00
+1907,Brazil,BRA,Colombia,COL,"Cession
+(part yielded to other entity)",.,162500.00
+1907,Brazil,BRA,Bolivia,BOL,"Cession
+(part yielded to other entity)",.,65000.00
+1907,Netherlands,NLD,NA,NA,"Conquest
+(armed force)",582175,53020.00
+1907,France,FRA,Morocco,MAR,"Conquest
+(armed force)",.,100.00
+1907,France,FRA,Thailand,THA,"Cession
+(part yielded to other entity)",.,18130.00
+1907,Thailand,THA,France,FRA,"Cession
+(part yielded to other entity)",.,35641.00
+1908,Bulgaria,BGR,Turkey,TUR,"Secession
+(establish new indep. entities)",4035575,96345.00
+1909,Peru,PER,Bolivia,BOL,"Cession
+(part yielded to other entity)",.,26000.00
+1909,United Kingdom,GBR,Thailand,THA,"Cession
+(part yielded to other entity)",450000,38195.00
+1909,France,FRA,NA,NA,"Conquest
+(armed force)",223000,893700.00
+1910,United Kingdom,GBR,Belgium,BEL,"Cession
+(part yielded to other entity)",250000,38850.00
+1910,United Kingdom,GBR,Bhutan,BTN,"Cession
+(part yielded to other entity)",250000,46600.00
+1910,Belgium,BEL,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,1.00
+1910,Morocco,MAR,France,FRA,"Cession
+(part yielded to other entity)",.,100.00
+1911,United Kingdom,GBR,Liberia,LBR,"Cession
+(part yielded to other entity)",.,800.00
+1911,France,FRA,NA,NA,"Conquest
+(armed force)",.,76534.00
+1911,Germany,DEU,France,FRA,"Cession
+(part yielded to other entity)",1000000,259000.00
+1911,Liberia,LBR,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,800.00
+1912,France,FRA,Morocco,MAR,"Annexation
+(unilateral)",5400000,398523.00
+1912,Spain,ESP,Morocco,MAR,"Annexation
+(unilateral)",600000,26000.00
+1912,Italy,ITA,Turkey,TUR,"Conquest
+(armed force)",100198,2681.00
+1912,Italy,ITA,Turkey,TUR,"Conquest
+(armed force)",523176,1051539.00
+1912,Albania,ALB,Turkey,TUR,"Secession
+(establish new indep. entities)",825000,28748.00
+1913,Yugoslavia,NA,Bulgaria,BGR,"Cession
+(part yielded to other entity)",1000000,27625.00
+1913,Yugoslavia,NA,Turkey,TUR,"Cession
+(part yielded to other entity)",.,7020.00
+1913,Montenegro,MNE,Turkey,TUR,"Cession
+(part yielded to other entity)",.,5200.00
+1913,Greece,GRC,Bulgaria,BGR,"Cession
+(part yielded to other entity)",1703000,19110.00
+1913,Greece,GRC,Turkey,TUR,"Cession
+(part yielded to other entity)",3000000,3771.00
+1913,Greece,GRC,United Kingdom,GBR,"Annexation
+(unilateral)",342151,8715.00
+1913,Greece,GRC,Turkey,TUR,"Cession
+(part yielded to other entity)",1500000,24354.00
+1913,Bulgaria,BGR,Turkey,TUR,"Cession
+(part yielded to other entity)",.,68250.00
+1913,Romania,ROU,Bulgaria,BGR,"Cession
+(part yielded to other entity)",286000,6959.00
+1913,Saudi Arabia,SAU,Turkey,TUR,"Conquest
+(armed force)",.,107120.00
+1914,United Kingdom,GBR,NA,NA,"Annexation
+(unilateral)",180412,18985.00
+1914,Italy,ITA,Albania,ALB,"Conquest
+(armed force)",.,5.00
+1914,Albania,ALB,Greece,GRC,"Cession
+(part yielded to other entity)",.,1.00
+1914,NA,NA,Turkey,TUR,"Secession
+(establish new indep. entities)",.,104338.00
+1914,Japan,JPN,Germany,DEU,"Cession
+(part yielded to other entity)",168900,518.00
+1915,United Kingdom,GBR,Yemen Arab Republic,NA,"Annexation
+(unilateral)",.,182.00
+1915,Qatar,QAT,Turkey,TUR,"Secession
+(establish new indep. entities)",.,11000.00
+1916,United States,USA,Nicaragua,NIC,"Cession
+(part yielded to other entity)",.,10.00
+1916,United Kingdom,GBR,Qatar,QAT,"Annexation
+(unilateral)",25000,22014.00
+1916,Spain,ESP,France,FRA,"Cession
+(part yielded to other entity)",9836,33020.00
+1917,United States,USA,Denmark,DNK,"Cession
+(part yielded to other entity)",26051,342.00
+1917,Finland,FIN,Russia,RUS,"Secession
+(establish new indep. entities)",3105000,325534.00
+1918,Poland,POL,Russia,RUS,"Secession
+(establish new indep. entities)",15400000,263180.00
+1918,Czechoslovakia,NA,Austria,AUT,"Cession
+(part yielded to other entity)",13600000,140968.00
+1918,Estonia,EST,Russia,RUS,"Secession
+(establish new indep. entities)",1107000,59984.00
+1918,Latvia,LVA,Russia,RUS,"Secession
+(establish new indep. entities)",1596000,63300.00
+1918,Lithuania,LTU,Russia,RUS,"Secession
+(establish new indep. entities)",2029000,154491.00
+1918,Ukraine,UKR,Russia,RUS,"Secession
+(establish new indep. entities)",.,444595.00
+1918,Armenia,ARM,Russia,RUS,"Secession
+(establish new indep. entities)",1214391,31057.00
+1918,Georgia,GEO,Russia,RUS,"Secession
+(establish new indep. entities)",2372403,66976.00
+1918,Azerbaijan,AZE,Russia,RUS,"Secession
+(establish new indep. entities)",2096973,84984.00
+1918,Yemen Arab Republic,NA,Turkey,TUR,"Secession
+(establish new indep. entities)",1000000,195000.00
+1919,United Kingdom,GBR,Germany,DEU,"Mandated territory
+(by League of Nations or UN)",188000,32634.00
+1919,United Kingdom,GBR,Germany,DEU,"Mandated territory
+(by League of Nations or UN)",550000,80290.00
+1919,Belgium,BEL,Germany,DEU,"Cession
+(part yielded to other entity)",61000,1000.00
+1919,Luxembourg,LUX,Germany,DEU,"Cession
+(part yielded to other entity)",.,3.00
+1919,France,FRA,Germany,DEU,"Mandated territory
+(by League of Nations or UN)",500000,56600.00
+1919,France,FRA,Germany,DEU,"Mandated territory
+(by League of Nations or UN)",1500000,432012.00
+1919,France,FRA,Germany,DEU,"Cession
+(part yielded to other entity)",.,259000.00
+1919,France,FRA,Germany,DEU,"Cession
+(part yielded to other entity)",657870,1945.00
+1919,France,FRA,Germany,DEU,"Cession
+(part yielded to other entity)",1874014,14514.00
+1919,Portugal,PRT,Germany,DEU,"Cession
+(part yielded to other entity)",.,1040.00
+1919,Poland,POL,Germany,DEU,"Cession
+(part yielded to other entity)",2700000,420000.00
+1919,Poland,POL,Austria,AUT,"Cession
+(part yielded to other entity)",8257505,80080.00
+1919,NA,NA,Germany,DEU,"Cession
+(part yielded to other entity)",330252,2056.00
+1919,Hungary,HUN,Austria,AUT,"Cession
+(part yielded to other entity)",7990000,91075.00
+1919,Italy,ITA,France,FRA,"Cession
+(part yielded to other entity)",.,1.00
+1919,Italy,ITA,Austria,AUT,"Cession
+(part yielded to other entity)",229510,96.00
+1919,Italy,ITA,Austria,AUT,"Cession
+(part yielded to other entity)",1178786,18941.00
+1919,Yugoslavia,NA,Bulgaria,BGR,"Cession
+(part yielded to other entity)",112500,2500.00
+1919,Yugoslavia,NA,Austria,AUT,"Cession
+(part yielded to other entity)",1931802,53636.00
+1919,Greece,GRC,Bulgaria,BGR,"Cession
+(part yielded to other entity)",320000,6400.00
+1919,South Africa,ZAF,Germany,DEU,"Mandated territory
+(by League of Nations or UN)",206000,822907.00
+1919,Australia,AUS,Germany,DEU,"Mandated territory
+(by League of Nations or UN)",2120,21.00
+1920,Canada,CAN,United Kingdom,GBR,"Unknown process
+(often independences)",9235000,9571661.00
+1920,NA,NA,United Kingdom,GBR,"Unknown process
+(often independences)",265000,421481.00
+1920,United Kingdom,GBR,Turkey,TUR,"Mandated territory
+(by League of Nations or UN)",757182,23310.00
+1920,United Kingdom,GBR,Turkey,TUR,"Mandated territory
+(by League of Nations or UN)",200000,89484.00
+1920,United Kingdom,GBR,Turkey,TUR,"Mandated territory
+(by League of Nations or UN)",2849282,280031.00
+1920,United Kingdom,GBR,Germany,DEU,"Mandated territory
+(by League of Nations or UN)",5000000,939361.00
+1920,France,FRA,Turkey,TUR,"Mandated territory
+(by League of Nations or UN)",1969004,184920.00
+1920,Poland,POL,Czechoslovakia,NA,"Cession
+(part yielded to other entity)",145241,1009.00
+1920,Poland,POL,Lithuania,LTU,"Cession
+(part yielded to other entity)",2075700,29818.00
+1920,Austria,AUT,Yugoslavia,NA,"Cession
+(part yielded to other entity)",392431,5055.00
+1920,Czechoslovakia,NA,Poland,POL,"Cession
+(part yielded to other entity)",113500,528.00
+1920,Czechoslovakia,NA,Hungary,HUN,"Cession
+(part yielded to other entity)",2940374,53320.00
+1920,Italy,ITA,Yugoslavia,NA,"Cession
+(part yielded to other entity)",404309,5271.00
+1920,Yugoslavia,NA,Italy,ITA,"Cession
+(part yielded to other entity)",1000,1.00
+1920,Yugoslavia,NA,Hungary,HUN,"Cession
+(part yielded to other entity)",4095258,71540.00
+1918,Romania,ROU,Russia,RUS,"Cession
+(part yielded to other entity)",2686600,45632.00
+1920,Romania,ROU,Hungary,HUN,"Cession
+(part yielded to other entity)",5200000,108289.00
+1920,Russia,RUS,Armenia,ARM,"Conquest
+(armed force)",1214391,31057.00
+1920,Russia,RUS,Azerbaijan,AZE,"Conquest
+(armed force)",2096973,84984.00
+1920,Russia,RUS,Georgia,GEO,"Conquest
+(armed force)",2372403,66976.00
+1920,Russia,RUS,Ukraine,UKR,"Conquest
+(armed force)",.,444595.00
+1920,Denmark,DNK,Germany,DEU,"Cession
+(part yielded to other entity)",160000,3800.00
+1920,South Africa,ZAF,United Kingdom,GBR,"Unknown process
+(often independences)",6930727,1223409.00
+1920,NA,NA,Turkey,TUR,"Secession
+(establish new indep. entities)",750000,259000.00
+1920,Japan,JPN,Germany,DEU,"Mandated territory
+(by League of Nations or UN)",70500,2476.00
+1920,Australia,AUS,Germany,DEU,"Mandated territory
+(by League of Nations or UN)",400000,240870.00
+1920,Australia,AUS,United Kingdom,GBR,"Unknown process
+(often independences)",5426008,7695094.00
+1920,New Zealand,NZL,Germany,DEU,"Mandated territory
+(by League of Nations or UN)",41828,2823.00
+1920,New Zealand,NZL,United Kingdom,GBR,"Unknown process
+(often independences)",1268046,268676.00
+1921,Costa Rica,CRI,Panama,PAN,"Annexation
+(unilateral)",100,1.00
+1921,Poland,POL,Russia,RUS,"Cession
+(part yielded to other entity)",3683568,113722.00
+1921,Hungary,HUN,Austria,AUT,"Cession
+(part yielded to other entity)",39525,225.00
+1921,Russia,RUS,Turkey,TUR,"Cession
+(part yielded to other entity)",186000,6975.00
+1921,Finland,FIN,Sweden,SWE,"Cession
+(part yielded to other entity)",27123,1422.00
+1921,Mongolia,MNG,China,CHN,"Secession
+(establish new indep. entities)",2400000,1531000.00
+1922,United States,USA,NA,NA,"Annexation
+(unilateral)",0,0.00
+1922,Colombia,COL,Venezuela,VEN,"Cession
+(part yielded to other entity)",100,1.00
+1922,Ireland,IRL,United Kingdom,GBR,"Unknown process
+(often independences)",3165000,68891.00
+1922,Germany,DEU,Poland,POL,"Cession
+(part yielded to other entity)",1299127,9702.00
+1922,Poland,POL,Germany,DEU,"Cession
+(part yielded to other entity)",893074,3221.00
+1922,Egypt,EGY,United Kingdom,GBR,"Unknown process
+(often independences)",12800000,994300.00
+1922,China,CHN,Japan,JPN,"Cession
+(part yielded to other entity)",192000,552.00
+1923,Lithuania,LTU,NA,NA,"Annexation
+(unilateral)",151960,2846.00
+1924,Belgium,BEL,Germany,DEU,"Mandated territory
+(by League of Nations or UN)",3000000,54222.00
+1924,Italy,ITA,Yugoslavia,NA,"Cession
+(part yielded to other entity)",49806,17.00
+1924,Italy,ITA,United Kingdom,GBR,"Cession
+(part yielded to other entity)",12000,85470.00
+1924,Yugoslavia,NA,Italy,ITA,"Cession
+(part yielded to other entity)",.,1.00
+1924,NA,NA,France,FRA,"Cession
+(part yielded to other entity)",50000,363.00
+1925,Italy,ITA,Egypt,EGY,"Cession
+(part yielded to other entity)",.,400.00
+1925,Egypt,EGY,Italy,ITA,"Cession
+(part yielded to other entity)",.,1.00
+1926,United Kingdom,GBR,Turkey,TUR,"Cession
+(part yielded to other entity)",703378,91009.00
+1926,New Zealand,NZL,United Kingdom,GBR,"Cession
+(part yielded to other entity)",1033,6.00
+1927,Belgium,BEL,Portugal,PRT,"Cession
+(part yielded to other entity)",.,3.00
+1927,Portugal,PRT,Belgium,BEL,"Cession
+(part yielded to other entity)",.,3500.00
+1928,Netherlands,NLD,United States,USA,"Cession
+(part yielded to other entity)",.,1.00
+1928,Norway,NOR,United Kingdom,GBR,"Cession
+(part yielded to other entity)",0,48.00
+1929,Peru,PER,Chile,CHL,"Cession
+(part yielded to other entity)",30000,8498.00
+1929,NA,NA,Italy,ITA,"Unknown process
+(often independences)",639,0.00
+1930,China,CHN,United Kingdom,GBR,"Cession
+(part yielded to other entity)",154416,738.00
+1932,France,FRA,Mexico,MEX,"Cession
+(part yielded to other entity)",0,5.00
+1932,Iraq,IRQ,United Kingdom,GBR,"Unknown process
+(often independences)",3560456,301994.00
+1932,Japan,JPN,China,CHN,"Conquest
+(armed force)",32900000,1304292.00
+1933,United Kingdom,GBR,NA,NA,"Cession
+(part yielded to other entity)",289516,404519.00
+1933,Japan,JPN,China,CHN,"Conquest
+(armed force)",2963027,173960.00
+1934,Colombia,COL,Peru,PER,"Cession
+(part yielded to other entity)",40000,113882.00
+1934,Italy,ITA,France,FRA,"Cession
+(part yielded to other entity)",.,1.00
+1934,Saudi Arabia,SAU,Yemen Arab Republic,NA,"Cession
+(part yielded to other entity)",50,1.00
+1935,Paraguay,PRY,Bolivia,BOL,"Conquest
+(armed force)",35000,233100.00
+1935,Germany,DEU,France,FRA,"Unification
+(new entity from 2+ pre-existing)",812030,1912.00
+1935,Italy,ITA,France,FRA,"Cession
+(part yielded to other entity)",.,800.00
+1936,Italy,ITA,Ethiopia,ETH,"Conquest
+(armed force)",7000000,906499.00
+1937,Japan,JPN,China,CHN,"Conquest
+(armed force)",.,1500000.00
+1938,Germany,DEU,Austria,AUT,"Annexation
+(unilateral)",6760000,83869.00
+1938,Germany,DEU,Czechoslovakia,NA,"Cession
+(part yielded to other entity)",3653292,28674.00
+1938,Poland,POL,Czechoslovakia,NA,"Annexation
+(unilateral)",241698,1085.00
+1938,Hungary,HUN,Czechoslovakia,NA,"Cession
+(part yielded to other entity)",1027450,11826.00
+1939,Germany,DEU,Czechoslovakia,NA,"Annexation
+(unilateral)",9807096,98909.00
+1939,Germany,DEU,Lithuania,LTU,"Annexation
+(unilateral)",152660,2846.00
+1939,Hungary,HUN,Czechoslovakia,NA,"Conquest
+(armed force)",522124,11094.00
+1939,Slovakia,SVK,Czechoslovakia,NA,"Secession
+(establish new indep. entities)",2450096,38456.00
+1939,Italy,ITA,Albania,ALB,"Conquest
+(armed force)",1003124,28748.00
+1939,Lithuania,LTU,Russia,RUS,"Cession
+(part yielded to other entity)",457500,6656.00
+1939,Turkey,TUR,France,FRA,"Cession
+(part yielded to other entity)",273350,5312.00
+1940,Bulgaria,BGR,Romania,ROU,"Cession
+(part yielded to other entity)",.,7421.00
+1940,Russia,RUS,Estonia,EST,"Conquest
+(armed force)",1126000,47549.00
+1940,Russia,RUS,Latvia,LVA,"Conquest
+(armed force)",1950000,65773.00
+1940,Russia,RUS,Lithuania,LTU,"Conquest
+(armed force)",2879070,59464.00
+1941,Ethiopia,ETH,Italy,ITA,"Cession
+(part yielded to other entity)",15000000,906499.00
+1942,Peru,PER,Ecuador,ECU,"Cession
+(part yielded to other entity)",31000,190807.00
+1944,Iceland,ISL,Denmark,DNK,"Secession
+(establish new indep. entities)",132000,103000.00
+1945,United States,USA,Japan,JPN,"Cession
+(part yielded to other entity)",869287,2354.00
+1945,Czechoslovakia,NA,Germany,DEU,"Cession
+(part yielded to other entity)",12900000,127860.00
+1945,Czechoslovakia,NA,Hungary,HUN,"Cession
+(part yielded to other entity)",1000000,22922.00
+1945,Czechoslovakia,NA,Slovakia,SVK,"Annexation
+(unilateral)",2450096,38456.00
+1944,Albania,ALB,Italy,ITA,"Cession
+(part yielded to other entity)",1132000,28748.00
+1945,Russia,RUS,Germany,DEU,"Cession
+(part yielded to other entity)",.,13000.00
+1945,Russia,RUS,Poland,POL,"Cession
+(part yielded to other entity)",.,179460.00
+1945,Russia,RUS,Czechoslovakia,NA,"Cession
+(part yielded to other entity)",.,7000.00
+1945,Russia,RUS,Japan,JPN,"Cession
+(part yielded to other entity)",339357,41063.00
+1945,China,CHN,Japan,JPN,"Cession
+(part yielded to other entity)",6084000,35763.00
+1945,China,CHN,Japan,JPN,"Cession
+(part yielded to other entity)",.,1500000.00
+1945,NA,NA,Germany,DEU,"Cession
+(part yielded to other entity)",6952744,83869.00
+1945,NA,NA,Japan,JPN,"Cession
+(part yielded to other entity)",25100000,220891.00
+1945,NA,NA,Japan,JPN,"Cession
+(part yielded to other entity)",73100000,371205.00
+1945,NA,NA,Germany,DEU,"Conquest
+(armed force)",69600000,472605.00
+1946,Syria,SYR,France,FRA,"Unknown process
+(often independences)",2978000,184920.00
+1946,Lebanon,LBN,France,FRA,"Unknown process
+(often independences)",1156000,10400.00
+1946,Jordan,JOR,United Kingdom,GBR,"Unknown process
+(often independences)",400000,89484.00
+1946,Philippines,PHL,United States,USA,"Unknown process
+(often independences)",18400000,299404.00
+1947,United States,USA,Japan,JPN,"Mandated territory
+(by League of Nations or UN)",47000,1779.00
+1947,France,FRA,Italy,ITA,"Cession
+(part yielded to other entity)",.,1.00
+1947,France,FRA,NA,NA,"Annexation
+(unilateral)",874000,2567.00
+1947,Czechoslovakia,NA,Hungary,HUN,"Cession
+(part yielded to other entity)",.,1.00
+1947,Albania,ALB,Italy,ITA,"Cession
+(part yielded to other entity)",.,5.00
+1947,Yugoslavia,NA,Italy,ITA,"Cession
+(part yielded to other entity)",.,3600.00
+1947,Greece,GRC,Italy,ITA,"Cession
+(part yielded to other entity)",115343,2681.00
+1947,Russia,RUS,Romania,ROU,"Conquest
+(armed force)",3500000,49987.00
+1947,Russia,RUS,Finland,FIN,"Cession
+(part yielded to other entity)",450000,44104.00
+1947,South Africa,ZAF,NA,NA,"Annexation
+(unilateral)",0,429.00
+1947,India,IND,United Kingdom,GBR,"Unknown process
+(often independences)",345000,2729368.00
+1947,Pakistan,PAK,United Kingdom,GBR,"Unknown process
+(often independences)",72200000,863777.00
+1947,Australia,AUS,United Kingdom,GBR,"Cession
+(part yielded to other entity)",0,412.00
+1947,NA,NA,Italy,ITA,"Cession
+(part yielded to other entity)",1124000,1774149.00
+1947,NA,NA,Italy,ITA,"Cession
+(part yielded to other entity)",292000,743.00
+1947,NA,NA,Italy,ITA,"Cession
+(part yielded to other entity)",1086000,461541.00
+1947,NA,NA,Italy,ITA,"Cession
+(part yielded to other entity)",1000000,124000.00
+1948,Canada,CAN,United Kingdom,GBR,"Unification
+(new entity from 2+ pre-existing)",324000,404519.00
+1948,Israel,ISR,United Kingdom,GBR,"Unknown process
+(often independences)",782000,12820.00
+1948,North Korea,PRK,Russia,RUS,"Unknown process
+(often independences)",8000000,121129.00
+1948,South Korea,KOR,United States,USA,"Unknown process
+(often independences)",20200000,98500.00
+1948,Myanmar (Burma),MMR,United Kingdom,GBR,"Unknown process
+(often independences)",18100000,678034.00
+1948,Sri Lanka,LKA,United Kingdom,GBR,"Unknown process
+(often independences)",7244000,65610.00
+1949,Netherlands,NLD,NA,NA,"Cession
+(part yielded to other entity)",9000,78.00
+1949,Belgium,BEL,Germany,DEU,"Cession
+(part yielded to other entity)",.,18.00
+1949,Luxembourg,LUX,Germany,DEU,"Cession
+(part yielded to other entity)",.,6.00
+1949,France,FRA,Germany,DEU,"Cession
+(part yielded to other entity)",.,7.00
+1949,Italy,ITA,NA,NA,"Mandated territory
+(by League of Nations or UN)",1086000,461541.00
+1949,Egypt,EGY,Israel,ISR,"Conquest
+(armed force)",405000,258.00
+1949,Jordan,JOR,Israel,ISR,"Conquest
+(armed force)",400000,5607.00
+1949,Taiwan,TWN,China,CHN,"Secession
+(establish new indep. entities)",7099000,36156.00
+1949,India,IND,Pakistan,PAK,"Conquest
+(armed force)",2700000,139860.00
+1949,Bhutan,BTN,India,IND,"Cession
+(part yielded to other entity)",19920,83.00
+1949,Bhutan,BTN,India,IND,"Unknown process
+(often independences)",300000,46600.00
+1949,Pakistan,PAK,India,IND,"Conquest
+(armed force)",1320000,32024.00
+1949,Indonesia,IDN,Netherlands,NLD,"Unknown process
+(often independences)",74800000,1491562.00
+1950,India,IND,France,FRA,"Cession
+(part yielded to other entity)",44786,10.00
+1950,India,IND,NA,NA,"Cession
+(part yielded to other entity)",137158,7298.00
+1951,Poland,POL,Russia,RUS,"Cession
+(part yielded to other entity)",7000,240.00
+1951,Russia,RUS,Poland,POL,"Cession
+(part yielded to other entity)",7000,240.00
+1951,Libya,LBY,NA,NA,"Unknown process
+(often independences)",1091830,1774149.00
+1952,Ethiopia,ETH,NA,NA,"Unification
+(new entity from 2+ pre-existing)",1000000,124000.00
+1952,Japan,JPN,NA,NA,"Unknown process
+(often independences)",83200000,371205.00
+1953,Japan,JPN,United States,USA,"Cession
+(part yielded to other entity)",.,1000.00
+1953,Cambodia,KHM,France,FRA,"Unknown process
+(often independences)",4440000,172511.00
+1954,German Democratic Republic,NA,Russia,RUS,"Unknown process
+(often independences)",18100000,107834.00
+1954,Italy,ITA,NA,NA,"Cession
+(part yielded to other entity)",297000,223.00
+1954,Yugoslavia,NA,NA,NA,"Cession
+(part yielded to other entity)",62725,516.00
+1954,India,IND,France,FRA,"Cession
+(part yielded to other entity)",323000,503.00
+1953,Laos,LAO,France,FRA,"Unknown process
+(often independences)",1505000,236800.00
+1954,Vietnam,VNM,France,FRA,"Unknown process
+(often independences)",16100000,155203.00
+1954,Republic of Vietnam,NA,France,FRA,"Unknown process
+(often independences)",9934000,168350.00
+1955,France,FRA,Libya,LBY,"Cession
+(part yielded to other entity)",.,26000.00
+1955,NA,NA,NA,NA,"Unknown process
+(often independences)",50200000,247476.00
+1955,Austria,AUT,NA,NA,"Unknown process
+(often independences)",6947000,83869.00
+1955,China,CHN,Taiwan,TWN,"Cession
+(part yielded to other entity)",300,1.00
+1955,Australia,AUS,United Kingdom,GBR,"Cession
+(part yielded to other entity)",500,14.00
+1956,NA,NA,Belgium,BEL,"Cession
+(part yielded to other entity)",648,1.00
+1956,Morocco,MAR,France,FRA,"Unknown process
+(often independences)",8955000,380800.00
+1956,Morocco,MAR,Spain,ESP,"Cession
+(part yielded to other entity)",1045000,19656.00
+1956,Morocco,MAR,NA,NA,"Cession
+(part yielded to other entity)",183000,349.00
+1956,Tunisia,TUN,France,FRA,"Unknown process
+(often independences)",3963000,125180.00
+1956,Sudan,SDN,United Kingdom,GBR,"Unknown process
+(often independences)",10300000,2505823.00
+1956,Egypt,EGY,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,1.00
+1956,Japan,JPN,Russia,RUS,"Cession
+(part yielded to other entity)",.,500.00
+1957,NA,NA,France,FRA,"Cession
+(part yielded to other entity)",992000,2567.00
+1957,Ghana,GHA,United Kingdom,GBR,"Unknown process
+(often independences)",6250000,204097.00
+1957,Ghana,GHA,United Kingdom,GBR,"Unification
+(new entity from 2+ pre-existing)",429000,33776.00
+1957,Malaysia,MYS,United Kingdom,GBR,"Unknown process
+(often independences)",6279000,131287.00
+1958,Guinea,GIN,France,FRA,"Unknown process
+(often independences)",2896000,245857.00
+1958,Morocco,MAR,Spain,ESP,"Cession
+(part yielded to other entity)",9000,13219.00
+1958,Egypt,EGY,Syria,SYR,"Unification
+(new entity from 2+ pre-existing)",29300000,1187338.00
+1958,India,IND,Pakistan,PAK,"Cession
+(part yielded to other entity)",.,1.00
+1958,Pakistan,PAK,India,IND,"Cession
+(part yielded to other entity)",300,1.00
+1958,Pakistan,PAK,Oman,OMN,"Cession
+(part yielded to other entity)",8146,1.00
+1958,Australia,AUS,United Kingdom,GBR,"Cession
+(part yielded to other entity)",3361,135.00
+1960,Honduras,HND,Nicaragua,NIC,"Cession
+(part yielded to other entity)",.,20720.00
+1960,Cyprus,CYP,United Kingdom,GBR,"Unknown process
+(often independences)",573000,9251.00
+1960,Mali,MLI,France,FRA,"Unknown process
+(often independences)",7172000,1401182.00
+1960,Senegal,SEN,Mali,MLI,"Secession
+(establish new indep. entities)",3110000,197161.00
+1960,Benin,BEN,France,FRA,"Unknown process
+(often independences)",2050000,115760.00
+1960,Mauritania,MRT,France,FRA,"Unknown process
+(often independences)",970000,1085805.00
+1960,Niger,NER,France,FRA,"Unknown process
+(often independences)",2876000,1188794.00
+1960,Côte d’Ivoire,CIV,France,FRA,"Unknown process
+(often independences)",3230000,322463.00
+1960,Burkina Faso,BFA,France,FRA,"Unknown process
+(often independences)",4400000,274200.00
+1960,Togo,TGO,France,FRA,"Unknown process
+(often independences)",1440000,56600.00
+1960,Cameroon,CMR,France,FRA,"Unknown process
+(often independences)",4700000,432012.00
+1960,Nigeria,NGA,United Kingdom,GBR,"Unknown process
+(often independences)",52000000,878447.00
+1960,Gabon,GAB,France,FRA,"Unknown process
+(often independences)",446000,267000.00
+1960,Central African Republic,CAF,France,FRA,"Unknown process
+(often independences)",1227000,626000.00
+1960,Chad,TCD,France,FRA,"Unknown process
+(often independences)",3070000,1283000.00
+1960,Congo - Brazzaville,COG,France,FRA,"Unknown process
+(often independences)",773000,342000.00
+1960,Congo - Kinshasa,COD,Belgium,BEL,"Unknown process
+(often independences)",14100000,2344932.00
+1960,Somalia,SOM,Italy,ITA,"Unknown process
+(often independences)",1330000,461541.00
+1960,Somalia,SOM,United Kingdom,GBR,"Unification
+(new entity from 2+ pre-existing)",650000,176120.00
+1960,Madagascar,MDG,France,FRA,"Unknown process
+(often independences)",5393000,590000.00
+1961,Benin,BEN,Portugal,PRT,"Conquest
+(armed force)",12,2.00
+1961,Sierra Leone,SLE,United Kingdom,GBR,"Unknown process
+(often independences)",2252000,72326.00
+1961,Cameroon,CMR,United Kingdom,GBR,"Unification
+(new entity from 2+ pre-existing)",840000,42945.00
+1961,Nigeria,NGA,United Kingdom,GBR,"Unification
+(new entity from 2+ pre-existing)",.,45325.00
+1961,Tanzania,TZA,United Kingdom,GBR,"Unknown process
+(often independences)",9399000,939361.00
+1961,Syria,SYR,Egypt,EGY,"Secession
+(establish new indep. entities)",4693000,184920.00
+1961,Kuwait,KWT,United Kingdom,GBR,"Unknown process
+(often independences)",322000,15540.00
+1961,China,CHN,Myanmar (Burma),MMR,"Cession
+(part yielded to other entity)",0,161.00
+1961,India,IND,Portugal,PRT,"Conquest
+(armed force)",649660,4193.00
+1961,Nepal,NPL,China,CHN,"Cession
+(part yielded to other entity)",31200,780.00
+1962,Jamaica,JAM,United Kingdom,GBR,"Unknown process
+(often independences)",1661000,11424.00
+1962,Trinidad & Tobago,TTO,United Kingdom,GBR,"Unknown process
+(often independences)",900000,5128.00
+1962,Uganda,UGA,United Kingdom,GBR,"Unknown process
+(often independences)",7016000,243411.00
+1962,Burundi,BDI,Belgium,BEL,"Unknown process
+(often independences)",3025000,27834.00
+1962,Rwanda,RWA,Belgium,BEL,"Unknown process
+(often independences)",2840000,26388.00
+1962,Algeria,DZA,France,FRA,"Unknown process
+(often independences)",10900000,2381741.00
+1962,Samoa,WSM,New Zealand,NZL,"Unknown process
+(often independences)",116000,2823.00
+1963,Mexico,MEX,United States,USA,"Cession
+(part yielded to other entity)",100,2.00
+1963,NA,NA,Netherlands,NLD,"Cession
+(part yielded to other entity)",.,1.00
+1963,Kenya,KEN,United Kingdom,GBR,"Unknown process
+(often independences)",8847000,582646.00
+1963,Zanzibar,NA,United Kingdom,GBR,"Unknown process
+(often independences)",329000,2642.00
+1963,Pakistan,PAK,China,CHN,"Cession
+(part yielded to other entity)",9136,1942.00
+1963,Malaysia,MYS,United Kingdom,GBR,"Unification
+(new entity from 2+ pre-existing)",1733000,583.00
+1963,Malaysia,MYS,United Kingdom,GBR,"Unification
+(new entity from 2+ pre-existing)",478000,76115.00
+1963,Malaysia,MYS,United Kingdom,GBR,"Unification
+(new entity from 2+ pre-existing)",778000,124967.00
+1963,Indonesia,IDN,Netherlands,NLD,"Cession
+(part yielded to other entity)",751000,412781.00
+1964,Malta,MLT,United Kingdom,GBR,"Unknown process
+(often independences)",324000,316.00
+1964,Tanzania,TZA,Zanzibar,NA,"Unification
+(new entity from 2+ pre-existing)",11400000,942003.00
+1964,Zambia,ZMB,United Kingdom,GBR,"Unknown process
+(often independences)",3600000,751936.00
+1964,Malawi,MWI,United Kingdom,GBR,"Unknown process
+(often independences)",3845000,119311.00
+1965,Gambia,GMB,United Kingdom,GBR,"Unknown process
+(often independences)",330000,10368.00
+1965,Jordan,JOR,Saudi Arabia,SAU,"Cession
+(part yielded to other entity)",750,750.00
+1965,Saudi Arabia,SAU,Jordan,JOR,"Cession
+(part yielded to other entity)",750,750.00
+1965,Maldives,MDV,United Kingdom,GBR,"Unknown process
+(often independences)",98000,298.00
+1965,Singapore,SGP,Malaysia,MYS,"Secession
+(establish new indep. entities)",1865000,583.00
+1966,Barbados,BRB,United Kingdom,GBR,"Unknown process
+(often independences)",238000,430.00
+1966,Guyana,GUY,United Kingdom,GBR,"Unknown process
+(often independences)",714223,210000.00
+1966,Lesotho,LSO,United Kingdom,GBR,"Unknown process
+(often independences)",1080857,30340.00
+1966,Botswana,BWA,United Kingdom,GBR,"Unknown process
+(often independences)",667000,575000.00
+1967,Israel,ISR,Egypt,EGY,"Conquest
+(armed force)",418800,53242.00
+1967,Israel,ISR,Syria,SYR,"Conquest
+(armed force)",60000,1710.00
+1967,Israel,ISR,Jordan,JOR,"Conquest
+(armed force)",674500,5878.00
+1967,Yemen People's Republic,NA,United Kingdom,GBR,"Unknown process
+(often independences)",1250000,160300.00
+1967,Oman,OMN,United Kingdom,GBR,"Cession
+(part yielded to other entity)",85,73.00
+1968,Equatorial Guinea,GNQ,Spain,ESP,"Unknown process
+(often independences)",290000,28051.00
+1968,Eswatini,SWZ,United Kingdom,GBR,"Unknown process
+(often independences)",442195,17400.00
+1968,Mauritius,MUS,United Kingdom,GBR,"Unknown process
+(often independences)",830700,1865.00
+1968,Japan,JPN,United States,USA,"Cession
+(part yielded to other entity)",.,100.00
+1968,India,IND,Pakistan,PAK,"Cession
+(part yielded to other entity)",.,7000.00
+1968,Pakistan,PAK,India,IND,"Cession
+(part yielded to other entity)",187200,780.00
+1968,Nauru,NRU,Australia,AUS,"Unknown process
+(often independences)",6603,22.00
+1969,Morocco,MAR,Spain,ESP,"Cession
+(part yielded to other entity)",51517,1505.00
+1969,Saudi Arabia,SAU,Kuwait,KWT,"Cession
+(part yielded to other entity)",2080,2850.00
+1969,Kuwait,KWT,Saudi Arabia,SAU,"Cession
+(part yielded to other entity)",2080,2850.00
+1970,Fiji,FJI,United Kingdom,GBR,"Unknown process
+(often independences)",524457,18272.00
+1970,Tonga,TON,United Kingdom,GBR,"Unknown process
+(often independences)",87406,700.00
+1971,Nicaragua,NIC,United States,USA,"Cession
+(part yielded to other entity)",2116,6.00
+1971,Iran,IRN,United Arab Emirates,ARE,"Conquest
+(armed force)",100,1.00
+1971,Iran,IRN,United Arab Emirates,ARE,"Annexation
+(unilateral)",100,1.00
+1971,Bahrain,BHR,United Kingdom,GBR,"Unknown process
+(often independences)",216815,723.00
+1971,Qatar,QAT,United Kingdom,GBR,"Unknown process
+(often independences)",160000,11000.00
+1971,United Arab Emirates,ARE,United Arab Emirates,ARE,"Unification
+(new entity from 2+ pre-existing)",154656,90410.00
+1971,India,IND,Pakistan,PAK,"Conquest
+(armed force)",5000000,13361.00
+1971,Pakistan,PAK,India,IND,"Conquest
+(armed force)",75600,315.00
+1971,Bangladesh,BGD,Pakistan,PAK,"Secession
+(establish new indep. entities)",71300000,144020.00
+1972,Honduras,HND,United States,USA,"Cession
+(part yielded to other entity)",.,3.00
+1972,Yemen Arab Republic,NA,Yemen People's Republic,NA,"Annexation
+(unilateral)",1000,182.00
+1972,United Arab Emirates,ARE,United Arab Emirates,ARE,"Unification
+(new entity from 2+ pre-existing)",24482,1690.00
+1972,Japan,JPN,United States,USA,"Cession
+(part yielded to other entity)",934176,848.00
+1972,India,IND,Pakistan,PAK,"Cession
+(part yielded to other entity)",.,179.00
+1972,Pakistan,PAK,India,IND,"Cession
+(part yielded to other entity)",3506160,14609.00
+1973,Bahamas,BHS,United Kingdom,GBR,"Unknown process
+(often independences)",168812,13864.00
+1973,Libya,LBY,Chad,TCD,"Conquest
+(armed force)",78000,78000.00
+1973,Israel,ISR,Syria,SYR,"Conquest
+(armed force)",15000,780.00
+1974,Grenada,GRD,United Kingdom,GBR,"Unknown process
+(often independences)",107779,344.00
+1974,Guinea-Bissau,GNB,Portugal,PRT,"Unknown process
+(often independences)",487448,36125.00
+1974,Turkey,TUR,Cyprus,CYP,"Conquest
+(armed force)",250000,3640.00
+1974,Egypt,EGY,Israel,ISR,"Cession
+(part yielded to other entity)",1000,1000.00
+1974,Sri Lanka,LKA,India,IND,"Cession
+(part yielded to other entity)",100,1.00
+1975,Suriname,SUR,Netherlands,NLD,"Unknown process
+(often independences)",414000,163265.00
+1975,Cape Verde,CPV,Portugal,PRT,"Unknown process
+(often independences)",272071,4033.00
+1975,São Tomé & Príncipe,STP,Portugal,PRT,"Unknown process
+(often independences)",76430,964.00
+1975,Angola,AGO,Portugal,PRT,"Unknown process
+(often independences)",5673046,1246700.00
+1975,Mozambique,MOZ,Portugal,PRT,"Unknown process
+(often independences)",8233834,784961.00
+1975,Comoros,COM,France,FRA,"Unknown process
+(often independences)",252000,1862.00
+1975,Iraq,IRQ,Saudi Arabia,SAU,"Cession
+(part yielded to other entity)",.,3500.00
+1975,Egypt,EGY,Israel,ISR,"Cession
+(part yielded to other entity)",2000,20000.00
+1975,Saudi Arabia,SAU,Iraq,IRQ,"Cession
+(part yielded to other entity)",2000,3500.00
+1975,Vietnam,VNM,Republic of Vietnam,NA,"Conquest
+(armed force)",18300000,174481.00
+1975,Papua New Guinea,PNG,Australia,AUS,"Unknown process
+(often independences)",2600000,462840.00
+1976,France,FRA,Comoros,COM,"Secession
+(establish new indep. entities)",38000,374.00
+1976,Mauritania,MRT,Spain,ESP,"Cession
+(part yielded to other entity)",.,88667.00
+1976,Seychelles,SYC,United Kingdom,GBR,"Unknown process
+(often independences)",59000,404.00
+1976,Seychelles,SYC,United Kingdom,GBR,"Cession
+(part yielded to other entity)",.,27.00
+1976,Morocco,MAR,Spain,ESP,"Cession
+(part yielded to other entity)",.,177667.00
+1976,Syria,SYR,Israel,ISR,"Cession
+(part yielded to other entity)",.,780.00
+1976,Indonesia,IDN,Portugal,PRT,"Conquest
+(armed force)",610541,14984.00
+1977,Djibouti,DJI,France,FRA,"Unknown process
+(often independences)",300000,23000.00
+1978,Dominica,DMA,United Kingdom,GBR,"Unknown process
+(often independences)",78000,728.00
+1978,Panama,PAN,United States,USA,"Cession
+(part yielded to other entity)",41800,1676.00
+1978,Solomon Islands,SLB,United Kingdom,GBR,"Unknown process
+(often independences)",196823,29785.00
+1978,Tuvalu,TUV,United Kingdom,GBR,"Unknown process
+(often independences)",5887,24.00
+1979,St. Lucia,LCA,United Kingdom,GBR,"Unknown process
+(often independences)",121000,616.00
+1979,St. Vincent & Grenadines,VCT,United Kingdom,GBR,"Unknown process
+(often independences)",120000,389.00
+1979,Egypt,EGY,Israel,ISR,"Cession
+(part yielded to other entity)",2000,20000.00
+1979,Kiribati,KIR,United Kingdom,GBR,"Unknown process
+(often independences)",57816,572.00
+1980,Zimbabwe,ZWE,United Kingdom,GBR,"Unknown process
+(often independences)",7360000,390622.00
+1980,Morocco,MAR,Mauritania,MRT,"Cession
+(part yielded to other entity)",100000,88667.00
+1980,Vanuatu,VUT,France,FRA,"Unknown process
+(often independences)",97468,14760.00
+1981,Colombia,COL,United States,USA,"Cession
+(part yielded to other entity)",0,10.00
+1981,Belize,BLZ,United Kingdom,GBR,"Unknown process
+(often independences)",148300,22800.00
+1981,Antigua & Barbuda,ATG,United Kingdom,GBR,"Unknown process
+(often independences)",77000,440.00
+1981,Iraq,IRQ,NA,NA,"Cession
+(part yielded to other entity)",0,3333.00
+1981,Saudi Arabia,SAU,NA,NA,"Cession
+(part yielded to other entity)",0,3333.00
+1983,St. Kitts & Nevis,KNA,United Kingdom,GBR,"Unknown process
+(often independences)",44500,360.00
+1984,Brunei,BRN,United Kingdom,GBR,"Unknown process
+(often independences)",215000,5270.00
+1984,Chile,CHL,NA,NA,"Cession
+(part yielded to other entity)",0,1079.00
+1984,Argentina,ARG,NA,NA,"Cession
+(part yielded to other entity)",0,1083.00
+1986,Marshall Islands,MHL,United States,USA,"Unknown process
+(often independences)",40000,181.00
+1986,Micronesia (Federated States of),FSM,United States,USA,"Unknown process
+(often independences)",95000,702.00
+1986,Mali,MLI,Burkina Faso,BFA,"Cession
+(part yielded to other entity)",65000,1553.00
+1989,Egypt,EGY,Israel,ISR,"Cession
+(part yielded to other entity)",0,1.00
+1990,Namibia,"NAM",South Africa,ZAF,"Unknown process
+(often independences)",1372000,823290.00
+1990,Yemen,YEM,Yemen People's Republic,NA,"Unification
+(new entity from 2+ pre-existing)",2488000,329111.00
+1990,Germany,DEU,German Democratic Republic,NA,"Unification
+(new entity from 2+ pre-existing)",16600000,108333.00
+1991,Georgia,GEO,Russia,RUS,"Secession
+(establish new indep. entities)",5500000,69700.00
+1991,Croatia,HRV,Yugoslavia,NA,"Secession
+(establish new indep. entities)",4763000,56410.00
+1991,Slovenia,SVN,Yugoslavia,NA,"Secession
+(establish new indep. entities)",1974000,20256.00
+1991,Moldova,MDA,Russia,RUS,"Secession
+(establish new indep. entities)",4350000,33700.00
+1991,Belarus,BLR,Russia,RUS,"Secession
+(establish new indep. entities)",10200000,207600.00
+1991,Azerbaijan,AZE,Russia,RUS,"Secession
+(establish new indep. entities)",7200000,86600.00
+1991,Kyrgyzstan,KGZ,Russia,RUS,"Secession
+(establish new indep. entities)",4375000,198500.00
+1991,Uzbekistan,UZB,Russia,RUS,"Secession
+(establish new indep. entities)",20300000,447400.00
+1991,Estonia,EST,Russia,RUS,"Secession
+(establish new indep. entities)",1581000,45227.00
+1991,Latvia,LVA,Russia,RUS,"Secession
+(establish new indep. entities)",2600000,64610.00
+1991,Lithuania,LTU,Russia,RUS,"Secession
+(establish new indep. entities)",3754000,65301.00
+1991,Armenia,ARM,Russia,RUS,"Secession
+(establish new indep. entities)",3450000,28400.00
+1991,Tajikistan,TJK,Russia,RUS,"Secession
+(establish new indep. entities)",5250000,143100.00
+1991,Turkmenistan,TKM,Russia,RUS,"Secession
+(establish new indep. entities)",3600000,488100.00
+1993,North Macedonia,MKD,Yugoslavia,NA,"Secession
+(establish new indep. entities)",2109000,24856.00
+1991,Ukraine,UKR,Russia,RUS,"Secession
+(establish new indep. entities)",52000000,603700.00
+1991,Kazakhstan,KAZ,Russia,RUS,"Secession
+(establish new indep. entities)",16700000,2717300.00
+1992,Bosnia & Herzegovina,BIH,Yugoslavia,NA,"Secession
+(establish new indep. entities)",4455000,51107.00
+1992,El Salvador,SLV,NA,NA,"Cession
+(part yielded to other entity)",36000,147.00
+1992,Honduras,HND,NA,NA,"Cession
+(part yielded to other entity)",13000,293.00
+1992,Yemen,YEM,Oman,OMN,"Cession
+(part yielded to other entity)",0,1875.00
+1992,Oman,OMN,Yemen,YEM,"Cession
+(part yielded to other entity)",0,1250.00
+1992,Bangladesh,BGD,India,IND,"Cession
+(part yielded to other entity)",20,1.00
+1993,Czechia,CZE,Czechoslovakia,NA,"Secession
+(establish new indep. entities)",10300000,79228.00
+1993,Slovakia,SVK,Czechoslovakia,NA,"Secession
+(establish new indep. entities)",5200000,48666.00
+1993,Eritrea,ERI,Ethiopia,ETH,"Secession
+(establish new indep. entities)",3000000,124993.00
+1993,Kuwait,KWT,Iraq,IRQ,"Cession
+(part yielded to other entity)",0,.
+1994,Namibia,"NAM",South Africa,ZAF,"Cession
+(part yielded to other entity)",30000,1124.00
+1994,Palau,PLW,United States,USA,"Unknown process
+(often independences)",15600,487.00
+1995,Jordan,JOR,Israel,ISR,"Cession
+(part yielded to other entity)",0,340.00
+1996,China,CHN,Russia,RUS,"Cession
+(part yielded to other entity)",0,18.00
+1997,Czechia,CZE,Slovakia,SVK,"Cession
+(part yielded to other entity)",31,4.52
+1997,Slovakia,SVK,Czechia,CZE,"Cession
+(part yielded to other entity)",120,4.52
+1997,China,CHN,United Kingdom,GBR,"Cession
+(part yielded to other entity)",6700000,1084.00
+1998,China,CHN,Kazakhstan,KAZ,"Cession
+(part yielded to other entity)",.,470.00
+1998,Ukraine,UKR,Moldova,MDA,"Cession
+(part yielded to other entity)",0,1.00
+1998,Moldova,MDA,Ukraine,UKR,"Cession
+(part yielded to other entity)",0,1.00
+1999,Russia,RUS,Estonia,EST,"Cession
+(part yielded to other entity)",0,30.00
+1999,Estonia,EST,Russia,RUS,"Cession
+(part yielded to other entity)",0,30.00
+1999,NA,NA,Indonesia,IDN,"Cession
+(part yielded to other entity)",780000,14926.00
+1999,China,CHN,Portugal,PRT,"Cession
+(part yielded to other entity)",447000,21.45
+1991,Botswana,BWA,NA,NA,"Conquest
+(armed force)",0,5.00
+2000,Egypt,EGY,Sudan,SDN,"Conquest
+(armed force)",5000,20580.00
+2002,Timor-Leste,TLS,NA,NA,"Unknown process
+(often independences)",950000,14926.00
+2003,Nigeria,NGA,Cameroon,CMR,"Cession
+(part yielded to other entity)",.,.
+2003,Cameroon,CMR,Nigeria,NGA,"Cession
+(part yielded to other entity)",.,.
+2004,Yemen,YEM,Saudi Arabia,SAU,"Cession
+(part yielded to other entity)",.,40000.00
+2006,Montenegro,MNE,Yugoslavia,NA,"Secession
+(establish new indep. entities)",650000,13812.00
+2008,Cameroon,CMR,Nigeria,NGA,"Cession
+(part yielded to other entity)",300000,665.00
+2008,China,CHN,Russia,RUS,"Cession
+(part yielded to other entity)",0,174.00
+2011,China,CHN,Tajikistan,TJK,"Cession
+(part yielded to other entity)",.,1142.00
+2011,South Sudan,SSD,Sudan,SDN,"Unknown process
+(often independences)",8260000,619745
+2014,Russia,RUS,Ukraine,UKR,"Conquest
+(armed force)",2400000,27000.00
+2008,Kosovo,NA,Yugoslavia,NA,"Unknown process
+(often independences)",1747383,10887.00
+2015,India,IND,Bangladesh,BGD,"Unknown process
+(often independences)",51000,69.44
+2015,Bangladesh,BGD,India,IND,"Unknown process
+(often independences)",51000,28.77
+1940,Russia,RUS,Finland,FIN,"Cession
+(part yielded to other entity)",450000,40000.00
+1954,India,IND,Portugal,PRT,"Annexation
+(unilateral)",57963,491.00
+1999,Botswana,BWA,Namibia,"NAM","Cession
+(part yielded to other entity)",0,5.00

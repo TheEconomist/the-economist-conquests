@@ -19,4 +19,4 @@ colnames(deaths) <- cols
 
 # Generate plot
 ggplot(deaths[deaths$Entity == 'World' & deaths$Year < 2022, ], aes(x=Year, y=`Deaths in conflicts between states per 100,000`, fill=type, col=type))+geom_bar(stat="identity")+xlab('')+geom_point(data=deaths[deaths$Year == 2022, ])+ylab('')+ggtitle('Deaths in conflicts between states per 100,000')+theme_minimal()+theme(legend.title = element_blank())
-ggsave('plots/battle_deaths_over_time.png')
+ggsave('plots/battle_deaths_over_time.png', bg = 'white')

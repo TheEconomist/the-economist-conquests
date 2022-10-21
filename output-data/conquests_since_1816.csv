@@ -1,0 +1,247 @@
+year,country_gaining,iso3c_gaining,country_losing,iso3c_losing,type,pop,area
+1817,Russia,RUS,NA,NA,"Conquest
+(armed force)",.,650.00
+1818,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",.,421200.00
+1821,Colombia,COL,Spain,ESP,"Conquest
+(armed force)",800000,1082207.00
+1822,Colombia,COL,Spain,ESP,"Conquest
+(armed force)",600000,550685.00
+1822,Turkey,TUR,NA,NA,"Conquest
+(armed force)",100000,229471.00
+1825,Madagascar,MDG,France,FRA,"Conquest
+(armed force)",.,1.00
+1826,United Kingdom,GBR,Myanmar (Burma),MMR,"Conquest
+(armed force)",1222998,169098.00
+1828,Netherlands,NLD,NA,NA,"Conquest
+(armed force)",200000,412781.00
+1829,Russia,RUS,NA,NA,"Conquest
+(armed force)",.,4680.00
+1830,France,FRA,Turkey,TUR,"Conquest
+(armed force)",73200,275317.00
+1830,Russia,RUS,NA,NA,"Conquest
+(armed force)",.,9360.00
+1843,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",121068,46620.00
+1844,France,FRA,NA,NA,"Conquest
+(armed force)",9000,1595.00
+1847,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",.,1.00
+1847,France,FRA,NA,NA,"Conquest
+(armed force)",.,200000.00
+1849,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",9153209,151536.00
+1852,United Kingdom,GBR,Myanmar (Burma),MMR,"Conquest
+(armed force)",870180,83657.00
+1853,France,FRA,NA,NA,"Conquest
+(armed force)",60000,16112.00
+1854,Russia,RUS,NA,NA,"Conquest
+(armed force)",.,1820000.00
+1858,Russia,RUS,NA,NA,"Conquest
+(armed force)",.,520.00
+1859,Russia,RUS,NA,NA,"Conquest
+(armed force)",.,12480.00
+1860,France,FRA,NA,NA,"Conquest
+(armed force)",.,39000.00
+1864,Russia,RUS,NA,NA,"Conquest
+(armed force)",.,36400.00
+1866,Germany,DEU,Austria-Hungary,NA,"Conquest
+(armed force)",544419,8537.00
+1866,Germany,DEU,Hanover,NA,"Conquest
+(armed force)",1923492,38474.00
+1867,France,FRA,NA,NA,"Conquest
+(armed force)",477000,33864.00
+1868,Russia,RUS,Tajikistan,TJK,"Conquest
+(armed force)",2000000,156000.00
+1870,France,FRA,NA,NA,"Conquest
+(armed force)",.,400000.00
+1871,Turkey,TUR,NA,NA,"Conquest
+(armed force)",.,104338.00
+1872,Turkey,TUR,Yemen Arab Republic,NA,"Conquest
+(armed force)",2000000,195000.00
+1873,Russia,RUS,NA,NA,"Conquest
+(armed force)",.,228800.00
+1873,Russia,RUS,Kyrgyzstan,KGZ,"Conquest
+(armed force)",110000,92463.00
+1874,France,FRA,NA,NA,"Conquest
+(armed force)",477000,33864.00
+1874,Egypt,EGY,NA,NA,"Conquest
+(armed force)",11000000,2658063.00
+1875,Turkey,TUR,NA,NA,"Conquest
+(armed force)",.,107120.00
+1876,Russia,RUS,Turkmenistan,TKM,"Conquest
+(armed force)",.,728000.00
+1878,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",.,1.00
+1879,Argentina,ARG,NA,NA,"Conquest
+(armed force)",24000,669972.00
+1879,Egypt,EGY,Ethiopia,ETH,"Conquest
+(armed force)",325000,468000.00
+1881,France,FRA,Tunisia,TUN,"Conquest
+(armed force)",2100000,116348.00
+1882,United Kingdom,GBR,Egypt,EGY,"Conquest
+(armed force)",6806381,1021081.00
+1883,Chile,CHL,Peru,PER,"Conquest
+(armed force)",20000,51480.00
+1884,Chile,CHL,Bolivia,BOL,"Conquest
+(armed force)",14000,50215.00
+1884,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",137500,234654.00
+1884,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",153800,192000.00
+1884,France,FRA,NA,NA,"Conquest
+(armed force)",180000,16000.00
+1884,Germany,DEU,NA,NA,"Conquest
+(armed force)",250000,822907.00
+1884,Germany,DEU,NA,NA,"Conquest
+(armed force)",500000,41440.00
+1884,Germany,DEU,NA,NA,"Conquest
+(armed force)",297000,240870.00
+1884,Germany,DEU,NA,NA,"Conquest
+(armed force)",2600000,336700.00
+1885,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",24000000,898000.00
+1885,Spain,ESP,NA,NA,"Conquest
+(armed force)",139000,26017.00
+1885,Spain,ESP,NA,NA,"Conquest
+(armed force)",100000,266000.00
+1885,Italy,ITA,NA,NA,"Conquest
+(armed force)",16000,100.00
+1886,United Kingdom,GBR,Myanmar (Burma),MMR,"Conquest
+(armed force)",4000000,492000.00
+1888,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",8400,241.00
+1888,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",320000,48250.00
+1888,France,FRA,NA,NA,"Conquest
+(armed force)",.,635821.00
+1889,Italy,ITA,NA,NA,"Conquest
+(armed force)",194579,247300.00
+1889,Italy,ITA,Zanzibar,NA,"Conquest
+(armed force)",400000,259000.00
+1893,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",609157,389362.00
+1893,France,FRA,NA,NA,"Conquest
+(armed force)",.,842400.00
+1893,France,FRA,Laos,LAO,"Conquest
+(armed force)",600000,255000.00
+1894,France,FRA,NA,NA,"Conquest
+(armed force)",600000,115760.00
+1894,Italy,ITA,NA,NA,"Conquest
+(armed force)",.,1.00
+1895,Japan,JPN,China,CHN,"Conquest
+(armed force)",2781272,35763.00
+1896,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",317964,100000.00
+1896,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",.,24484.00
+1896,France,FRA,Madagascar,MDG,"Conquest
+(armed force)",3500000,590000.00
+1897,Mexico,MEX,France,FRA,"Conquest
+(armed force)",0,5.00
+1898,United Kingdom,GBR,Turkey,TUR,"Conquest
+(armed force)",294190,8614.00
+1899,United Kingdom,GBR,Sudan,SDN,"Conquest
+(armed force)",2000000,2505823.00
+1899,France,FRA,NA,NA,"Conquest
+(armed force)",.,2394466.00
+1900,Russia,RUS,China,CHN,"Conquest
+(armed force)",5530000,939280.00
+1902,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",1000000,286065.00
+1902,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",200000,129153.00
+1903,United Kingdom,GBR,NA,NA,"Conquest
+(armed force)",10000000,668220.00
+1903,France,FRA,Morocco,MAR,"Conquest
+(armed force)",62000,499870.00
+1905,Japan,JPN,NA,NA,"Conquest
+(armed force)",5713244,220891.00
+1907,Netherlands,NLD,NA,NA,"Conquest
+(armed force)",582175,53020.00
+1907,France,FRA,Morocco,MAR,"Conquest
+(armed force)",.,100.00
+1909,France,FRA,NA,NA,"Conquest
+(armed force)",223000,893700.00
+1911,France,FRA,NA,NA,"Conquest
+(armed force)",.,76534.00
+1912,Italy,ITA,Turkey,TUR,"Conquest
+(armed force)",100198,2681.00
+1912,Italy,ITA,Turkey,TUR,"Conquest
+(armed force)",523176,1051539.00
+1913,Saudi Arabia,SAU,Turkey,TUR,"Conquest
+(armed force)",.,107120.00
+1914,Italy,ITA,Albania,ALB,"Conquest
+(armed force)",.,5.00
+1920,Russia,RUS,Armenia,ARM,"Conquest
+(armed force)",1214391,31057.00
+1920,Russia,RUS,Azerbaijan,AZE,"Conquest
+(armed force)",2096973,84984.00
+1920,Russia,RUS,Georgia,GEO,"Conquest
+(armed force)",2372403,66976.00
+1920,Russia,RUS,Ukraine,UKR,"Conquest
+(armed force)",.,444595.00
+1932,Japan,JPN,China,CHN,"Conquest
+(armed force)",32900000,1304292.00
+1933,Japan,JPN,China,CHN,"Conquest
+(armed force)",2963027,173960.00
+1935,Paraguay,PRY,Bolivia,BOL,"Conquest
+(armed force)",35000,233100.00
+1936,Italy,ITA,Ethiopia,ETH,"Conquest
+(armed force)",7000000,906499.00
+1937,Japan,JPN,China,CHN,"Conquest
+(armed force)",.,1500000.00
+1939,Hungary,HUN,Czechoslovakia,NA,"Conquest
+(armed force)",522124,11094.00
+1939,Italy,ITA,Albania,ALB,"Conquest
+(armed force)",1003124,28748.00
+1940,Russia,RUS,Estonia,EST,"Conquest
+(armed force)",1126000,47549.00
+1940,Russia,RUS,Latvia,LVA,"Conquest
+(armed force)",1950000,65773.00
+1940,Russia,RUS,Lithuania,LTU,"Conquest
+(armed force)",2879070,59464.00
+1945,NA,NA,Germany,DEU,"Conquest
+(armed force)",69600000,472605.00
+1947,Russia,RUS,Romania,ROU,"Conquest
+(armed force)",3500000,49987.00
+1949,Egypt,EGY,Israel,ISR,"Conquest
+(armed force)",405000,258.00
+1949,Jordan,JOR,Israel,ISR,"Conquest
+(armed force)",400000,5607.00
+1949,India,IND,Pakistan,PAK,"Conquest
+(armed force)",2700000,139860.00
+1949,Pakistan,PAK,India,IND,"Conquest
+(armed force)",1320000,32024.00
+1961,Benin,BEN,Portugal,PRT,"Conquest
+(armed force)",12,2.00
+1961,India,IND,Portugal,PRT,"Conquest
+(armed force)",649660,4193.00
+1967,Israel,ISR,Egypt,EGY,"Conquest
+(armed force)",418800,53242.00
+1967,Israel,ISR,Syria,SYR,"Conquest
+(armed force)",60000,1710.00
+1967,Israel,ISR,Jordan,JOR,"Conquest
+(armed force)",674500,5878.00
+1971,Iran,IRN,United Arab Emirates,ARE,"Conquest
+(armed force)",100,1.00
+1971,India,IND,Pakistan,PAK,"Conquest
+(armed force)",5000000,13361.00
+1971,Pakistan,PAK,India,IND,"Conquest
+(armed force)",75600,315.00
+1973,Libya,LBY,Chad,TCD,"Conquest
+(armed force)",78000,78000.00
+1973,Israel,ISR,Syria,SYR,"Conquest
+(armed force)",15000,780.00
+1974,Turkey,TUR,Cyprus,CYP,"Conquest
+(armed force)",250000,3640.00
+1975,Vietnam,VNM,Republic of Vietnam,NA,"Conquest
+(armed force)",18300000,174481.00
+1976,Indonesia,IDN,Portugal,PRT,"Conquest
+(armed force)",610541,14984.00
+1991,Botswana,BWA,NA,NA,"Conquest
+(armed force)",0,5.00
+2000,Egypt,EGY,Sudan,SDN,"Conquest
+(armed force)",5000,20580.00
+2014,Russia,RUS,Ukraine,UKR,"Conquest
+(armed force)",2400000,27000.00
