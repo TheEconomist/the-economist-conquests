@@ -1,4 +1,5 @@
-# The Economist: Conquest
+### Conquest
+# The Economist: Vladimir Putin is dragging the world back to a bloodier time
 
 This repository contains data and code to replicate the charts in our international section piece on conquest - and how Vladimir Putin is dragging the world back to a bloodier time. 
 
