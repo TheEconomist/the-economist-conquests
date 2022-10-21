@@ -11,7 +11,7 @@ These are:
 
 ![](plots/conquests_by_country.png?raw=true)
 
-In addition, one can find the script use to provide the raw data for the opening animation in the script folder. Should there be any issue, please open an issue here, or email sondresolstad@economist.com
+In addition, one can find the script used to provide the raw data for the opening animation in the script folder. If you see any way to improve this work, please open an issue here, or email sondresolstad@economist.com.
 
 ## Sources:
 
