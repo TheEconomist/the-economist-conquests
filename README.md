@@ -23,7 +23,8 @@ In addition, one can find the script used to provide the raw data for the openin
 * * Tir, Jaroslav, Philip Schafer, Paul Diehl, and Gary Goertz. 1998. “Territorial Changes, 1816-1996: Procedures and Data”, Conflict Management and Peace Science 16:89-97.
 * * Pettersson, Therese, Shawn Davis, Amber Deniz, Garoun Engström, Nanar Hawach, Stina Högbladh, Margareta Sollenberg & Magnus Öberg (2021). Organized violence 1989-2020, with a special emphasis on Syria. Journal of Peace Research 58(4).; Bethany Lacina & and Nils Petter Gleditsch, 2005. „Monitoring Trends in Global Combat: A New Dataset of Battle Deaths‟, European Journal of Population 21(2–3): 145–116.
 * Our World In Data
-* Press reports, Encyclopedia Britannica
+* Encyclopedia Britannica
+* Press reports
 
 We thank Kristian Skrede Gleditsch, Dan Altman, Paul F. Diehl, and Jaroslav Tir for providing useful context on these numbers. 
 
