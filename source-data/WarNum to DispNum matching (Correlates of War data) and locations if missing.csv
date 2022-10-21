@@ -1,0 +1,339 @@
+ccode,WarNum,DispNum,WarName,StartYear1,StateName,lat,lng
+220,1,89,Franco-Spanish War,1823,France,,
+230,1,89,Franco-Spanish War,1823,Spain,,
+365,4,189,First Russo-Turkish,1828,Russia,,
+640,4,189,First Russo-Turkish,1828,Ottoman Empire,,
+2,7,1552,Mexican-American,1846,United States of America,,
+70,7,1552,Mexican-American,1846,Mexico,,
+300,10,19,Austro-Sardinian,1848,Austria,,
+325,10,19,Austro-Sardinian,1848,Italy,,
+332,10,19,Austro-Sardinian,1848,Modena,,
+337,10,19,Austro-Sardinian,1848,Tuscany,,
+255,13,375,First Schleswig-Holstein,1848,Prussia,,
+390,13,375,First Schleswig-Holstein,1848,Denmark,,
+220,16,175,Roman Republic,1849,France,,
+300,16,175,Roman Republic,1849,Austria,,
+327,16,175,Roman Republic,1849,Papal States,,
+329,16,175,Roman Republic,1849,Two Sicilies,,
+140,19,1528,La Plata,1851,Brazil,,
+160,19,1528,La Plata,1851,Argentina,,
+200,22,57,Crimean,1854,United Kingdom,,
+220,22,57,Crimean,1854,France,,
+325,22,57,Crimean,1855,Italy,,
+365,22,57,Crimean,1853,Russia,,
+640,22,57,Crimean,1853,Turkey,,
+200,25,8,Anglo-Persian,1856,United Kingdom,,
+630,25,8,Anglo-Persian,1856,Iran,,
+220,28,115,Italian Unification,1859,France,,
+300,28,115,Italian Unification,1859,Austria,,
+325,28,115,Italian Unification,1859,Sardinia/Piedmont,,
+230,31,1580,First Spanish-Moroccan,1859,Spain,,
+600,31,1580,First Spanish-Moroccan,1859,Morocco,,
+325,34,112,Italian-Roman,1860,Sardinia/Piedmont,,
+327,34,112,Italian-Roman,1860,Papal States,,
+325,37,113,Neapolitan,1860,Sardinia/Piedmont,,
+329,37,113,Neapolitan,1860,Two Sicilies,,
+70,40,135,Franco-Mexican,1862,Mexico,,
+220,40,135,Franco-Mexican,1862,France,,
+100,43,1519,Ecuadorian-Colombian,1863,Colombia,,
+130,43,1519,Ecuadorian-Colombian,1863,Ecuador,,
+255,46,261,Second Schleswig-Holstein,1864,Germany,,
+300,46,261,Second Schleswig-Holstein,1864,Austria,,
+390,46,261,Second Schleswig-Holstein,1864,Denmark,,
+140,49,1590,Lopez,1864,Brazil,,
+150,49,1590,Lopez,1864,Paraguay,,
+160,49,1590,Lopez,1865,Argentina,,
+135,52,1482,Naval War,1866,Peru,,
+155,52,1482,Naval War,1865,Chile,,
+230,52,1482,Naval War,1865,Spain,,
+240,55,,Seven Weeks,1866,Hanover,54.13861,9.763035
+245,55,,Seven Weeks,1866,Bavaria,54.13861,9.763035
+255,55,,Seven Weeks,1866,Germany,54.13861,9.763035
+267,55,,Seven Weeks,1866,Baden,54.13861,9.763035
+269,55,,Seven Weeks,1866,Saxony,54.13861,9.763035
+271,55,,Seven Weeks,1866,Wuerttemburg,54.13861,9.763035
+273,55,,Seven Weeks,1866,Hesse Electoral,54.13861,9.763035
+275,55,,Seven Weeks,1866,Hesse Grand Ducal,54.13861,9.763035
+280,55,,Seven Weeks,1866,Mecklenburg Schwerin,54.13861,9.763035
+300,55,,Seven Weeks,1866,Austria,54.13861,9.763035
+325,55,,Seven Weeks,1866,Italy,54.13861,9.763035
+220,58,88,Franco-Prussian,1870,France,,
+245,58,88,Franco-Prussian,1870,Bavaria,,
+255,58,88,Franco-Prussian,1870,Germany,,
+267,58,88,Franco-Prussian,1870,Baden,,
+271,58,88,Franco-Prussian,1870,Wuerttemburg,,
+90,60,1533,First Central American,1876,Guatemala,,
+92,60,1533,First Central American,1876,El Salvador,,
+365,61,187,Second Russo-Turkish,1877,Russia,,
+640,61,187,Second Russo-Turkish,1877,Turkey,,
+135,64,1518,War of the Pacific,1879,Peru,,
+145,64,1518,War of the Pacific,1879,Bolivia,,
+155,64,1518,War of the Pacific,1879,Chile,,
+200,65,3725,Conquest of Egypt,1882,United Kingdom,,
+651,65,3725,Conquest of Egypt,1882,Egypt,,
+220,67,202,Sino-French,1884,France,,
+710,67,202,Sino-French,1884,China,,
+90,70,1533,Second Central American,1885,Guatemala,,
+92,70,1533,Second Central American,1885,El Salvador,,
+710,73,,First Sino-Japanese,1894,China,37.046967,126.10608
+740,73,,First Sino-Japanese,1894,Japan,37.046967,126.10608
+350,76,1569,Greco-Turkish,1897,Greece,,
+640,76,1569,Greco-Turkish,1897,Turkey,,
+2,79,1557,Spanish-American,1898,United States of America,,
+230,79,1557,Spanish-American,1898,Spain,,
+2,82,,Boxer Rebellion,1900,United States of America,39.848295,116.352758
+200,82,,Boxer Rebellion,1900,United Kingdom,39.848295,116.352758
+220,82,,Boxer Rebellion,1900,France,39.848295,116.352758
+365,82,,Boxer Rebellion,1900,Russia,39.848295,116.352758
+710,82,,Boxer Rebellion,1900,China,39.848295,116.352758
+740,82,,Boxer Rebellion,1900,Japan,39.848295,116.352758
+365,83,3250,Sino-Russian,1900,Russia,,
+710,83,3250,Sino-Russian,1900,China,,
+365,85,180,Russo-Japanese,1904,Russia,,
+740,85,180,Russo-Japanese,1904,Japan,,
+90,88,1205,Third Central American,1906,Guatemala,,
+91,88,1205,Third Central American,1906,Honduras,,
+92,88,1205,Third Central American,1906,El Salvador,,
+91,91,1202,Fourth Central American,1907,Honduras,,
+92,91,1202,Fourth Central American,1907,El Salvador,,
+93,91,1202,Fourth Central American,1907,Nicaragua,,
+230,94,1086,Second Spanish-Moroccan,1909,Spain,,
+600,94,1086,Second Spanish-Moroccan,1909,Morocco,,
+325,97,114,Italian-Turkish,1911,Italy,,
+640,97,114,Italian-Turkish,1911,Turkey,,
+345,100,,First Balkan,1912,Yugoslavia,41.919138,26.693898
+350,100,,First Balkan,1912,Greece,41.919138,26.693898
+355,100,,First Balkan,1912,Bulgaria,41.919138,26.693898
+640,100,,First Balkan,1912,Turkey,41.919138,26.693898
+345,103,,Second Balkan,1913,Yugoslavia,41.919138,26.693898
+350,103,,Second Balkan,1913,Greece,41.919138,26.693898
+355,103,,Second Balkan,1913,Bulgaria,41.919138,26.693898
+360,103,,Second Balkan,1913,Romania,41.919138,26.693898
+640,103,,Second Balkan,1913,Turkey,41.919138,26.693898
+2,106,320,World War I,1917,United States of America,,
+200,106,320,World War I,1914,United Kingdom,,
+211,106,320,World War I,1914,Belgium,,
+220,106,320,World War I,1914,France,,
+235,106,320,World War I,1916,Portugal,,
+255,106,320,World War I,1914,Germany,,
+300,106,320,World War I,1914,Austria-Hungary,,
+325,106,320,World War I,1915,Italy,,
+345,106,320,World War I,1914,Yugoslavia,,
+350,106,320,World War I,1917,Greece,,
+355,106,320,World War I,1915,Bulgaria,,
+360,106,320,World War I,1916,Romania,,
+365,106,320,World War I,1914,Russia,,
+640,106,320,World War I,1914,Turkey,,
+740,106,320,World War I,1914,Japan,,
+365,107,,Estonian Liberation,1918,Russia,59.354778,28.180112
+366,107,,Estonian Liberation,1918,Estonia,59.354778,28.180112
+375,107,,Estonian Liberation,1918,Finland,59.354778,28.180112
+255,108,,Latvian Liberation,1918,Germany,57.396734,27.066578
+255,108,,Latvian Liberation,1919,Germany,57.396734,27.066578
+365,108,,Latvian Liberation,1918,Russia,57.396734,27.066578
+366,108,,Latvian Liberation,1919,Estonia,57.396734,27.066578
+367,108,,Latvian Liberation,1918,Latvia,57.396734,27.066578
+290,109,1219,Russo-Polish,1919,Poland,,
+365,109,1219,Russo-Polish,1919,Russia,,
+310,112,,Hungarian Adversaries,1919,Hungary,47.738096,22.402331
+315,112,,Hungarian Adversaries,1919,Czechoslovakia,47.738096,22.402331
+360,112,,Hungarian Adversaries,1919,Romania,47.738096,22.402331
+350,115,1270,Second Greco-Turkish,1919,Greece,,
+640,115,1270,Second Greco-Turkish,1919,Turkey,,
+220,116,,Franco-Turkish,1919,France,41.420057,31.742249
+640,116,,Franco-Turkish,1919,Turkey,41.420057,31.742249
+290,117,,Lithuanian-Polish,1920,Poland,54.50719,25.114416
+368,117,,Lithuanian-Polish,1920,Lithuania,54.50719,25.114416
+365,118,41,Manchurian,1929,USSR,,
+710,118,41,Manchurian,1929,China,,
+710,121,129,Second Sino-Japanese,1931,China,,
+740,121,129,Second Sino-Japanese,1931,Japan,,
+145,124,1027,Chaco,1932,Bolivia,,
+150,124,1027,Chaco,1932,Paraguay,,
+670,125,1129,Saudi-Yemeni,1934,Saudi Arabia,,
+678,125,1129,Saudi-Yemeni,1934,Yemen Arab Republic,,
+325,127,111,Conquest of Ethiopia,1935,Italy,,
+530,127,111,Conquest of Ethiopia,1935,Ethiopia,,
+710,130,,Third Sino-Japanese,1937,China,38.972156,117.70421
+740,130,,Third Sino-Japanese,1937,Japan,38.972156,117.70421
+365,133,,Changkufeng,1938,USSR,42.445126,130.631813
+740,133,,Changkufeng,1938,Japan,42.445126,130.631813
+365,136,,Nomonhan,1939,USSR,47.72182,118.769816
+712,136,,Nomonhan,1939,Mongolia,47.72182,118.769816
+740,136,,Nomonhan,1939,Japan,47.72182,118.769816
+2,139,,World War II,1941,United States of America,52.518553,14.614435
+20,139,,World War II,1939,Canada,52.518553,14.614435
+140,139,,World War II,1944,Brazil,52.518553,14.614435
+200,139,,World War II,1939,United Kingdom,52.518553,14.614435
+210,139,,World War II,1940,Netherlands,52.518553,14.614435
+211,139,,World War II,1940,Belgium,52.518553,14.614435
+220,139,,World War II,1940,France,52.518553,14.614435
+220,139,,World War II,1939,France,52.518553,14.614435
+255,139,,World War II,1939,Germany,52.518553,14.614435
+290,139,,World War II,1939,Poland,52.518553,14.614435
+310,139,,World War II,1941,Hungary,52.518553,14.614435
+325,139,,World War II,1943,Italy,52.518553,14.614435
+325,139,,World War II,1940,Italy,52.518553,14.614435
+345,139,,World War II,1941,Yugoslavia,52.518553,14.614435
+350,139,,World War II,1940,Greece,52.518553,14.614435
+355,139,,World War II,1944,Bulgaria,52.518553,14.614435
+355,139,,World War II,1941,Bulgaria,52.518553,14.614435
+360,139,,World War II,1944,Romania,52.518553,14.614435
+360,139,,World War II,1941,Romania,52.518553,14.614435
+365,139,,World War II,1941,USSR,52.518553,14.614435
+375,139,,World War II,1941,Finland,52.518553,14.614435
+385,139,,World War II,1940,Norway,52.518553,14.614435
+530,139,,World War II,1941,Ethiopia,52.518553,14.614435
+560,139,,World War II,1939,South Africa,52.518553,14.614435
+710,139,,World War II,1941,China,52.518553,14.614435
+712,139,,World War II,1945,Mongolia,52.518553,14.614435
+740,139,,World War II,1941,Japan,52.518553,14.614435
+900,139,,World War II,1939,Australia,52.518553,14.614435
+920,139,,World War II,1939,New Zealand,52.518553,14.614435
+365,142,179,Russo-Finnish,1939,USSR,,
+375,142,179,Russo-Finnish,1939,Finland,,
+220,145,,Franco-Thai,1940,France,17.885662,102.565174
+800,145,,Franco-Thai,1940,Thailand,17.885662,102.565174
+750,147,,First Kashmir,1947,India,33.081916,75.977594
+770,147,,First Kashmir,1947,Pakistan,33.081916,75.977594
+645,148,,Arab-Israeli,1948,Iraq,32.281462,34.851044
+651,148,,Arab-Israeli,1948,Egypt,32.281462,34.851044
+652,148,,Arab-Israeli,1948,Syria,32.281462,34.851044
+660,148,,Arab-Israeli,1948,Lebanon,32.281462,34.851044
+663,148,,Arab-Israeli,1948,Jordan,32.281462,34.851044
+666,148,,Arab-Israeli,1948,Israel,32.281462,34.851044
+2,151,51,Korean,1950,United States of America,,
+20,151,51,Korean,1950,Canada,,
+100,151,51,Korean,1951,Colombia,,
+200,151,51,Korean,1950,United Kingdom,,
+210,151,51,Korean,1951,Netherlands,,
+211,151,51,Korean,1951,Belgium,,
+220,151,51,Korean,1951,France,,
+350,151,51,Korean,1951,Greece,,
+530,151,51,Korean,1951,Ethiopia,,
+640,151,51,Korean,1950,Turkey,,
+710,151,51,Korean,1950,China,,
+731,151,51,Korean,1950,North Korea,,
+732,151,51,Korean,1950,South Korea,,
+800,151,51,Korean,1951,Thailand,,
+840,151,51,Korean,1950,Philippines,,
+900,151,51,Korean,1950,Australia,,
+710,153,,Off-shore Islands,1954,China,24.439791,118.402923
+713,153,,Off-shore Islands,1954,Taiwan,24.439791,118.402923
+200,155,200,Sinai War,1956,United Kingdom,,
+220,155,200,Sinai War,1956,France,,
+651,155,200,Sinai War,1956,Egypt,,
+666,155,200,Sinai War,1956,Israel,,
+310,156,606,Soviet Invasion of Hungary,1956,Hungary,,
+365,156,606,Soviet Invasion of Hungary,1956,USSR,,
+220,158,,IfniWar,1958,France,29.353335,-10.186582
+230,158,,IfniWar,1957,Spain,29.353335,-10.186582
+600,158,,IfniWar,1957,Morocco,29.353335,-10.186582
+710,159,,Taiwan Straits,1958,China (PRC),24.44751,118.353383
+713,159,,Taiwan Straits,1958,Taiwan (ROC),24.44751,118.353383
+710,160,,Assam,1962,China (PRC),33.557171,78.745692
+750,160,,Assam,1962,India,33.557171,78.745692
+2,163,611,"Vietnam War, Phase 2",1965,United States of America,,
+732,163,611,"Vietnam War, Phase 2",1965,South Korea,,
+800,163,611,"Vietnam War, Phase 2",1967,Thailand,,
+811,163,611,"Vietnam War, Phase 2",1970,Cambodia,,
+816,163,611,"Vietnam War, Phase 2",1965,Vietnam,,
+817,163,611,"Vietnam War, Phase 2",1965,South Vietnam,,
+840,163,611,"Vietnam War, Phase 2",1966,Philippines,,
+900,163,611,"Vietnam War, Phase 2",1965,Australia,,
+750,166,1312,Second Kashmir,1965,India,,
+770,166,1312,Second Kashmir,1965,Pakistan,,
+651,169,1480,Six Day War,1967,Egypt,,
+652,169,1480,Six Day War,1967,Syria,,
+663,169,1480,Six Day War,1967,Jordan,,
+666,169,1480,Six Day War,1967,Israel,,
+2,170,1360,"Second Laotian, Phase 2",1968,United States of America,,
+800,170,1360,"Second Laotian, Phase 2",1970,Thailand,,
+812,170,1360,"Second Laotian, Phase 2",1968,Laos,,
+816,170,1360,"Second Laotian, Phase 2",1968,Vietnam,,
+651,172,1480,War of Attrition,1969,Egypt,,
+666,172,1480,War of Attrition,1969,Israel,,
+91,175,1206,Football War,1969,Honduras,,
+92,175,1206,Football War,1969,El Salvador,,
+2,176,611,Communist Coalition,1970,United States of America,,
+811,176,611,Communist Coalition,1970,Cambodia,,
+816,176,611,Communist Coalition,1970,Vietnam,,
+817,176,611,Communist Coalition,1970,South Vietnam,,
+750,178,,Bangladesh,1971,India,25.224762,88.865899
+770,178,,Bangladesh,1971,Pakistan,25.224762,88.865899
+645,181,1046,Yom Kippur War,1973,Iraq,,
+651,181,1046,Yom Kippur War,1973,Egypt,,
+652,181,1046,Yom Kippur War,1973,Syria,,
+663,181,1046,Yom Kippur War,1973,Jordan,,
+666,181,1046,Yom Kippur War,1973,Israel,,
+670,181,1046,Yom Kippur War,1973,Saudi Arabia,,
+352,184,1293,Turco-Cypriot,1974,Cyprus,,
+352,184,1293,Turco-Cypriot,1974,Cyprus,,
+640,184,1293,Turco-Cypriot,1974,Turkey,,
+40,186,,War over Angola,1975,Cuba,-12.589568,17.026094
+490,186,,War over Angola,1975,Democratic Republic of the Congo,-12.589568,17.026094
+540,186,,War over Angola,1975,Angola,-12.589568,17.026094
+560,186,,War over Angola,1975,South Africa,-12.589568,17.026094
+40,187,2069,"Second Ogaden War, Phase 2",1977,Cuba,,
+520,187,2069,"Second Ogaden War, Phase 2",1977,Somalia,,
+530,187,2069,"Second Ogaden War, Phase 2",1977,Ethiopia,,
+811,189,1435,Vietnamese-Cambodian,1977,Cambodia,,
+816,189,1435,Vietnamese-Cambodian,1977,Vietnam,,
+500,190,2141,Ugandian-Tanzanian,1978,Uganda,,
+510,190,2141,Ugandian-Tanzanian,1978,Tanzania,,
+620,190,2141,Ugandian-Tanzanian,1979,Libya,,
+710,193,3007,Sino-Vietnamese Punitive,1979,China,,
+816,193,3007,Sino-Vietnamese Punitive,1979,Vietnam,,
+630,199,2115,Iran-Iraq,1980,Iran,,
+645,199,2115,Iran-Iraq,1980,Iraq,,
+160,202,3630,Falkland Islands,1982,Argentina,,
+200,202,3630,Falkland Islands,1982,United Kingdom,,
+652,205,3444,War over Lebanon,1982,Syria,,
+666,205,3444,War over Lebanon,1982,Israel,,
+483,207,,War over the Aouzou Strip,1986,Chad,21.812487,17.453119
+620,207,,War over the Aouzou Strip,1986,Libya,21.812487,17.453119
+710,208,3628,Sino-Vietnamese Border War,1987,China,,
+816,208,3628,Sino-Vietnamese Border War,1987,Vietnam,,
+2,211,,Gulf War,1991,United States of America,29.362458,47.698599
+20,211,,Gulf War,1991,Canada,29.362458,47.698599
+200,211,,Gulf War,1991,United Kingdom,29.362458,47.698599
+220,211,,Gulf War,1991,France,29.362458,47.698599
+325,211,,Gulf War,1991,Italy,29.362458,47.698599
+600,211,,Gulf War,1991,Morocco,29.362458,47.698599
+645,211,,Gulf War,1990,Iraq,29.362458,47.698599
+651,211,,Gulf War,1991,Egypt,29.362458,47.698599
+652,211,,Gulf War,1991,Syria,29.362458,47.698599
+670,211,,Gulf War,1991,Saudi Arabia,29.362458,47.698599
+690,211,,Gulf War,1990,Kuwait,29.362458,47.698599
+694,211,,Gulf War,1991,Qatar,29.362458,47.698599
+696,211,,Gulf War,1991,United Arab Emirates,29.362458,47.698599
+698,211,,Gulf War,1991,Oman,29.362458,47.698599
+344,215,,Bosnian Independence,1992,Croatia,44.026656,17.962806
+345,215,,Bosnian Independence,1992,Yugoslavia,44.026656,17.962806
+346,215,,Bosnian Independence,1992,Bosnia,44.026656,17.962806
+371,216,,Azeri-Armenian,1993,Armenia,39.707792,46.183919
+373,216,,Azeri-Armenian,1993,Azerbaijan,39.707792,46.183919
+130,217,,Cenepa Valley,1995,Ecuador,4.545201,-78.450167
+135,217,,Cenepa Valley,1995,Peru,4.545201,-78.450167
+530,219,4258,Badme Border,1998,Ethiopia,,
+531,219,4258,Badme Border,1998,Eritrea,,
+2,221,,War for Kosovo,1999,United States of America,42.552398,20.872216
+200,221,,War for Kosovo,1999,United Kingdom,42.552398,20.872216
+210,221,,War for Kosovo,1999,Netherlands,42.552398,20.872216
+220,221,,War for Kosovo,1999,France,42.552398,20.872216
+255,221,,War for Kosovo,1999,Germany,42.552398,20.872216
+325,221,,War for Kosovo,1999,Italy,42.552398,20.872216
+345,221,,War for Kosovo,1999,Yugoslavia,42.552398,20.872216
+640,221,,War for Kosovo,1999,Turkey,42.552398,20.872216
+750,223,4007,Kargil War,1999,India,,
+770,223,4007,Kargil War,1999,Pakistan,,
+2,225,,Invasion of Afghanistan,2001,United States of America,34.473231,68.903733
+20,225,,Invasion of Afghanistan,2001,Canada,34.473231,68.903733
+200,225,,Invasion of Afghanistan,2001,United Kingdom,34.473231,68.903733
+220,225,,Invasion of Afghanistan,2001,France,34.473231,68.903733
+700,225,,Invasion of Afghanistan,2001,Afghanistan,34.473231,68.903733
+900,225,,Invasion of Afghanistan,2001,Australia,34.473231,68.903733
+2,227,4273,Invasion of Iraq,2003,United States of America,,
+200,227,4273,Invasion of Iraq,2003,United Kingdom,,
+645,227,4273,Invasion of Iraq,2003,Iraq,,
+900,227,4273,Invasion of Iraq,2003,Australia,,
