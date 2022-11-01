@@ -3,7 +3,7 @@
 
 This repository contains data and code to replicate the charts in our international section piece on conquest - on how Vladimir Putin is dragging the world back to a bloodier time. 
 
-To replicate the analysis, simply download this repository and run the scripts in the "scripts" folder. This will produce the following charts, form the basis for those featured in the article. 
+To replicate the analysis, simply download this repository and run the scripts in the "scripts" folder. This will produce the following charts, which form the basis of those featured in the article. 
 
 ![](plots/battle_deaths_over_time.png?raw=true)
 
