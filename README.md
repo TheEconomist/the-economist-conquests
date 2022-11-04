@@ -29,3 +29,6 @@ In addition, one can find the script used to provide the raw data for the openin
 We thank Kristian Skrede Gleditsch, Dan Altman, Paul F. Diehl, and Jaroslav Tir for providing useful context on these numbers. 
 
 See also: https://correlatesofwar.org/data-sets/, https://ourworldindata.org/war-and-peace
+
+## Suggested citation
+The Economist and Solstad, S. (corresponding author), 2022. Vladimir Putin is dragging the world back to a bloodier time. [online] The Economist. Available at: <https://www.economist.com/interactive/international/2022/10/24/vladimir-putin-is-dragging-the-world-back-to-a-bloodier-time> [Published October 25th, 2022]. 
